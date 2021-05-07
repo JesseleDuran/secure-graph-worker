@@ -1,0 +1,15 @@
+coverage.out
+*~
+coverage.txt
+profile.out
+*.idea
+.idea
+.idea/
+downloads/
+2?
+env.local
+vendor/
+.DS_Store
+**/.DS_Store
+*.env
+*.json
