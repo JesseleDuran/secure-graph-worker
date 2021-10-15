@@ -1,0 +1,3170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8.11" timestamp="2021-09-27T00:00:00Z">
+	<bounds minlat="4.709" minlon="-74.0749999" maxlat="4.713" maxlon="-74.0689999"/>
+	<node id="255476400" lat="4.7112435" lon="-74.0722624" version="1"/>
+	<node id="262390974" lat="4.7111718" lon="-74.0719958" version="1">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="262390975" lat="4.7095657" lon="-74.0717038" version="1"/>
+	<node id="268262466" lat="4.7113734" lon="-74.0692441" version="1"/>
+	<node id="268262467" lat="4.7114411" lon="-74.0696282" version="1"/>
+	<node id="268262468" lat="4.7114718" lon="-74.0701152" version="1"/>
+	<node id="268262469" lat="4.7114618" lon="-74.0703245" version="1"/>
+	<node id="268262470" lat="4.7113187" lon="-74.0712054" version="1"/>
+	<node id="268262591" lat="4.7110974" lon="-74.0707515" version="1"/>
+	<node id="268262592" lat="4.7111691" lon="-74.0696987" version="1"/>
+	<node id="268262593" lat="4.7110966" lon="-74.0691057" version="1"/>
+	<node id="307756835" lat="4.7128776" lon="-74.0703821" version="1"/>
+	<node id="307756838" lat="4.7117006" lon="-74.0704685" version="1"/>
+	<node id="307758742" lat="4.7115222" lon="-74.0700527" version="1"/>
+	<node id="307758746" lat="4.7116148" lon="-74.0701791" version="1"/>
+	<node id="307758751" lat="4.7117444" lon="-74.0702775" version="1"/>
+	<node id="307758753" lat="4.7119936" lon="-74.0703384" version="1"/>
+	<node id="308905160" lat="4.7128255" lon="-74.0723376" version="1">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="308905190" lat="4.7129977" lon="-74.0726239" version="1"/>
+	<node id="308905191" lat="4.7128692" lon="-74.0732876" version="1"/>
+	<node id="308905192" lat="4.7128068" lon="-74.0742502" version="1"/>
+	<node id="310104564" lat="4.7105302" lon="-74.0748398" version="1"/>
+	<node id="310104565" lat="4.7109286" lon="-74.0719432" version="1">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="310653048" lat="4.709906" lon="-74.0747009" version="1">
+		<tag k="highway" v="turning_circle"/>
+	</node>
+	<node id="310653051" lat="4.7100659" lon="-74.073725" version="1"/>
+	<node id="310653052" lat="4.7101501" lon="-74.0731072" version="1"/>
+	<node id="310712481" lat="4.7114437" lon="-74.0704635" version="1">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="311437895" lat="4.7108358" lon="-74.0705131" version="1"/>
+	<node id="311437896" lat="4.7105827" lon="-74.0704989" version="1"/>
+	<node id="311437898" lat="4.7101016" lon="-74.0703888" version="1"/>
+	<node id="311437899" lat="4.709476" lon="-74.0702284" version="1"/>
+	<node id="316229309" lat="4.7129024" lon="-74.0747806" version="1"/>
+	<node id="316229418" lat="4.711313" lon="-74.0746277" version="1"/>
+	<node id="316231949" lat="4.7114071" lon="-74.0740186" version="1"/>
+	<node id="316231973" lat="4.7108459" lon="-74.0739018" version="1"/>
+	<node id="316231993" lat="4.7107337" lon="-74.0735237" version="1"/>
+	<node id="316232009" lat="4.7128096" lon="-74.0737003" version="1"/>
+	<node id="316373701" lat="4.7117697" lon="-74.0693912" version="1"/>
+	<node id="316373710" lat="4.7128561" lon="-74.0698805" version="1"/>
+	<node id="316373711" lat="4.7122573" lon="-74.0699062" version="1"/>
+	<node id="316373713" lat="4.7119322" lon="-74.0697775" version="1"/>
+	<node id="316373715" lat="4.7123287" lon="-74.0703178" version="1"/>
+	<node id="316373817" lat="4.7126777" lon="-74.0695551" version="1"/>
+	<node id="316373821" lat="4.7119322" lon="-74.0690994" version="1"/>
+	<node id="334640779" lat="4.7113185" lon="-74.0703849" version="1"/>
+	<node id="361325413" lat="4.7127148" lon="-74.071167" version="1">
+		<tag k="amenity" v="bar"/>
+		<tag k="level" v="1"/>
+		<tag k="name" v="Hollywood"/>
+	</node>
+	<node id="381981205" lat="4.7111595" lon="-74.0720627" version="1"/>
+	<node id="381981250" lat="4.7109219" lon="-74.0720115" version="1">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="381991485" lat="4.7111278" lon="-74.0722358" version="1">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="traffic_signals" v="signal"/>
+	</node>
+	<node id="381991520" lat="4.7095133" lon="-74.0718391" version="1"/>
+	<node id="392198471" lat="4.7121593" lon="-74.071372" version="1">
+		<tag k="name" v="Bulevar Niza"/>
+		<tag k="shop" v="department_store"/>
+	</node>
+	<node id="474828494" lat="4.7103493" lon="-74.0718218" version="1"/>
+	<node id="474828495" lat="4.7108005" lon="-74.0716472" version="1"/>
+	<node id="474828496" lat="4.7110135" lon="-74.0712934" version="1"/>
+	<node id="474828497" lat="4.7108711" lon="-74.0725334" version="1"/>
+	<node id="474828498" lat="4.7107834" lon="-74.0723607" version="1"/>
+	<node id="474828499" lat="4.7105098" lon="-74.0720938" version="1"/>
+	<node id="474831063" lat="4.7114252" lon="-74.0723042" version="1"/>
+	<node id="474831064" lat="4.7111469" lon="-74.0724698" version="1"/>
+	<node id="474831065" lat="4.7110403" lon="-74.0727093" version="1"/>
+	<node id="474831066" lat="4.711291" lon="-74.0713593" version="1"/>
+	<node id="474831067" lat="4.711456" lon="-74.0719743" version="1"/>
+	<node id="474831068" lat="4.7116292" lon="-74.072089" version="1"/>
+	<node id="474831069" lat="4.7101416" lon="-74.0720132" version="1"/>
+	<node id="474831072" lat="4.7101572" lon="-74.0728022" version="1"/>
+	<node id="474831073" lat="4.7099529" lon="-74.0744023" version="1"/>
+	<node id="474831075" lat="4.7112463" lon="-74.0713436" version="1"/>
+	<node id="474831076" lat="4.7111331" lon="-74.0713741" version="1"/>
+	<node id="474831077" lat="4.7110555" lon="-74.0713232" version="1"/>
+	<node id="475207416" lat="4.7095303" lon="-74.0735946" version="1"/>
+	<node id="476032166" lat="4.7114677" lon="-74.0699384" version="1"/>
+	<node id="476032167" lat="4.7110185" lon="-74.0706286" version="1"/>
+	<node id="476032168" lat="4.7106313" lon="-74.0717641" version="1"/>
+	<node id="492866940" lat="4.7121031" lon="-74.0726578" version="1"/>
+	<node id="492866942" lat="4.7118812" lon="-74.0738295" version="1"/>
+	<node id="492866945" lat="4.7115921" lon="-74.0738945" version="1"/>
+	<node id="492866946" lat="4.7118524" lon="-74.0726119" version="1"/>
+	<node id="503980685" lat="4.7106066" lon="-74.0727265" version="1">
+		<tag k="name" v="Surtifruver"/>
+		<tag k="shop" v="supermarket"/>
+	</node>
+	<node id="598579600" lat="4.7113233" lon="-74.0717681" version="1"/>
+	<node id="598587478" lat="4.7107932" lon="-74.0741714" version="1"/>
+	<node id="601255661" lat="4.7105272" lon="-74.0735699" version="1">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Pescaderia Jaime"/>
+	</node>
+	<node id="655148798" lat="4.7118887" lon="-74.0719468" version="1">
+		<tag k="amenity" v="pharmacy"/>
+		<tag k="contact:phone" v="+57 1 6138765"/>
+		<tag k="level" v="mezzanine"/>
+		<tag k="local_ref" v="S1107"/>
+		<tag k="name" v="Drogueria Colsubsidio"/>
+	</node>
+	<node id="664713684" lat="4.7122012" lon="-74.0713062" version="1">
+		<tag k="level" v="mezzanine"/>
+		<tag k="name" v="Carrefour"/>
+		<tag k="name:es" v="Boulevar Niza"/>
+		<tag k="shop" v="supermarket"/>
+	</node>
+	<node id="724307153" lat="4.711052" lon="-74.0719699" version="1"/>
+	<node id="724307157" lat="4.7112714" lon="-74.069564" version="1"/>
+	<node id="724307162" lat="4.7106018" lon="-74.0748509" version="1"/>
+	<node id="724307164" lat="4.7113409" lon="-74.0701916" version="1"/>
+	<node id="724307174" lat="4.7111912" lon="-74.0710526" version="1"/>
+	<node id="724307178" lat="4.7109945" lon="-74.0723888" version="1"/>
+	<node id="724307180" lat="4.7106993" lon="-74.0742149" version="1"/>
+	<node id="724307184" lat="4.7105924" lon="-74.0747863" version="1"/>
+	<node id="724307185" lat="4.7112233" lon="-74.0691804" version="1"/>
+	<node id="724307195" lat="4.7110194" lon="-74.0722109" version="1"/>
+	<node id="724307201" lat="4.7113195" lon="-74.0700012" version="1"/>
+	<node id="724307203" lat="4.710845" lon="-74.0734271" version="1"/>
+	<node id="724307205" lat="4.7112824" lon="-74.0705777" version="1"/>
+	<node id="724307209" lat="4.7106726" lon="-74.0742981" version="1"/>
+	<node id="726333454" lat="4.710277" lon="-74.0717419" version="1"/>
+	<node id="726333477" lat="4.7109394" lon="-74.0718317" version="1"/>
+	<node id="726333483" lat="4.7105737" lon="-74.0717446" version="1"/>
+	<node id="726333492" lat="4.7098245" lon="-74.0716686" version="1"/>
+	<node id="726333494" lat="4.7094029" lon="-74.0716239" version="1"/>
+	<node id="726333495" lat="4.710728" lon="-74.0717074" version="1"/>
+	<node id="726333497" lat="4.7104561" lon="-74.0717634" version="1"/>
+	<node id="726333501" lat="4.7107715" lon="-74.071758" version="1"/>
+	<node id="726333503" lat="4.7095786" lon="-74.0716418" version="1"/>
+	<node id="726333517" lat="4.7110667" lon="-74.071862" version="1"/>
+	<node id="726333519" lat="4.7107001" lon="-74.0716714" version="1"/>
+	<node id="726333526" lat="4.7101555" lon="-74.0717121" version="1"/>
+	<node id="726333534" lat="4.7103893" lon="-74.0717634" version="1"/>
+	<node id="834658927" lat="4.7110277" lon="-74.0721508" version="1"/>
+	<node id="834658928" lat="4.711043" lon="-74.0720379" version="1"/>
+	<node id="858706951" lat="4.7096571" lon="-74.0695897" version="1"/>
+	<node id="858706962" lat="4.7097779" lon="-74.0690662" version="1"/>
+	<node id="858706965" lat="4.7104307" lon="-74.0711605" version="1"/>
+	<node id="858706969" lat="4.7093719" lon="-74.0698576" version="1"/>
+	<node id="858706970" lat="4.7091213" lon="-74.070152" version="1"/>
+	<node id="858706981" lat="4.7104124" lon="-74.0697547" version="1"/>
+	<node id="858706985" lat="4.7100536" lon="-74.0691013" version="1"/>
+	<node id="858706987" lat="4.709075" lon="-74.0711923" version="1"/>
+	<node id="858706999" lat="4.7090215" lon="-74.0694754" version="1"/>
+	<node id="858707023" lat="4.7105005" lon="-74.0702351" version="1"/>
+	<node id="858707027" lat="4.7098583" lon="-74.0696158" version="1"/>
+	<node id="858707034" lat="4.7101607" lon="-74.0710478" version="1"/>
+	<node id="858707042" lat="4.7106298" lon="-74.0697621" version="1"/>
+	<node id="858707056" lat="4.7098846" lon="-74.070333" version="1"/>
+	<node id="858707059" lat="4.7097749" lon="-74.0709617" version="1"/>
+	<node id="858707085" lat="4.7092048" lon="-74.0708617" version="1"/>
+	<node id="858707091" lat="4.7102329" lon="-74.0697486" version="1"/>
+	<node id="858707096" lat="4.7104215" lon="-74.0704639" version="1"/>
+	<node id="858707105" lat="4.7096329" lon="-74.0709261" version="1"/>
+	<node id="858707116" lat="4.709317" lon="-74.0701942" version="1"/>
+	<node id="858707118" lat="4.7095375" lon="-74.0690016" version="1"/>
+	<node id="858707120" lat="4.7102877" lon="-74.0711008" version="1"/>
+	<node id="858707124" lat="4.7103153" lon="-74.0691748" version="1"/>
+	<node id="858707133" lat="4.7093169" lon="-74.0695152" version="1"/>
+	<node id="858707136" lat="4.7094416" lon="-74.0709646" version="1"/>
+	<node id="858707156" lat="4.710009" lon="-74.0696354" version="1"/>
+	<node id="858707162" lat="4.7099484" lon="-74.0710052" version="1"/>
+	<node id="858707173" lat="4.7095883" lon="-74.0702518" version="1"/>
+	<node id="858707184" lat="4.709915" lon="-74.0701072" version="1"/>
+	<node id="858707193" lat="4.7094994" lon="-74.0695197" version="1"/>
+	<node id="858707202" lat="4.7090186" lon="-74.0707808" version="1"/>
+	<node id="858745350" lat="4.7119832" lon="-74.0727134" version="1"/>
+	<node id="858745356" lat="4.7117746" lon="-74.0738109" version="1"/>
+	<node id="858745364" lat="4.7118942" lon="-74.0727152" version="1"/>
+	<node id="858745371" lat="4.7117296" lon="-74.0723715" version="1"/>
+	<node id="858745386" lat="4.7115444" lon="-74.0733622" version="1"/>
+	<node id="858745392" lat="4.7112043" lon="-74.0730578" version="1"/>
+	<node id="858745396" lat="4.7108779" lon="-74.0737139" version="1"/>
+	<node id="858745401" lat="4.7116505" lon="-74.0739835" version="1"/>
+	<node id="858745405" lat="4.7120631" lon="-74.0726164" version="1"/>
+	<node id="858745409" lat="4.7116472" lon="-74.0735471" version="1"/>
+	<node id="858745414" lat="4.711805" lon="-74.0727771" version="1"/>
+	<node id="858745440" lat="4.7110275" lon="-74.073577" version="1"/>
+	<node id="858745444" lat="4.711099" lon="-74.0736221" version="1"/>
+	<node id="858745449" lat="4.7117297" lon="-74.0738109" version="1"/>
+	<node id="858745456" lat="4.7109865" lon="-74.0730242" version="1"/>
+	<node id="858745462" lat="4.7118199" lon="-74.0737897" version="1"/>
+	<node id="858745465" lat="4.7120261" lon="-74.0727564" version="1"/>
+	<node id="858745467" lat="4.7119178" lon="-74.0726146" version="1"/>
+	<node id="858745498" lat="4.7110615" lon="-74.0731381" version="1"/>
+	<node id="858745507" lat="4.7123688" lon="-74.0724956" version="1"/>
+	<node id="858745513" lat="4.7116871" lon="-74.0733898" version="1"/>
+	<node id="858745520" lat="4.7119357" lon="-74.0727062" version="1"/>
+	<node id="858745525" lat="4.7117842" lon="-74.0727731" version="1"/>
+	<node id="858745530" lat="4.7109983" lon="-74.0736379" version="1"/>
+	<node id="858745560" lat="4.7117985" lon="-74.0739473" version="1"/>
+	<node id="858745563" lat="4.7111983" lon="-74.0731723" version="1"/>
+	<node id="858745567" lat="4.7115138" lon="-74.0735212" version="1"/>
+	<node id="858745570" lat="4.7112461" lon="-74.0730659" version="1"/>
+	<node id="858745577" lat="4.7111039" lon="-74.0731372" version="1"/>
+	<node id="858745586" lat="4.7116888" lon="-74.0737625" version="1"/>
+	<node id="858745588" lat="4.7109838" lon="-74.0735702" version="1"/>
+	<node id="858815587" lat="4.7129024" lon="-74.0717371" version="1"/>
+	<node id="858815593" lat="4.7119019" lon="-74.0709027" version="1"/>
+	<node id="858815595" lat="4.7125446" lon="-74.0720023" version="1"/>
+	<node id="858815613" lat="4.7129341" lon="-74.071827" version="1"/>
+	<node id="858815640" lat="4.7121263" lon="-74.072058" version="1"/>
+	<node id="858815659" lat="4.7115751" lon="-74.071071" version="1"/>
+	<node id="858815663" lat="4.7115602" lon="-74.0705515" version="1"/>
+	<node id="858815681" lat="4.7120005" lon="-74.0707856" version="1"/>
+	<node id="858815685" lat="4.7117032" lon="-74.0715987" version="1"/>
+	<node id="858815695" lat="4.7126325" lon="-74.0720004" version="1"/>
+	<node id="858815714" lat="4.7116453" lon="-74.0707901" version="1"/>
+	<node id="858815720" lat="4.7116663" lon="-74.071567" version="1"/>
+	<node id="858815728" lat="4.7126765" lon="-74.0720451" version="1"/>
+	<node id="858815774" lat="4.7129263" lon="-74.0704166" version="1"/>
+	<node id="858815777" lat="4.7113936" lon="-74.0707584" version="1"/>
+	<node id="858815782" lat="4.7128761" lon="-74.0717727" version="1"/>
+	<node id="858815801" lat="4.7121016" lon="-74.0720437" version="1"/>
+	<node id="858815809" lat="4.7128728" lon="-74.07211" version="1"/>
+	<node id="858815829" lat="4.7115859" lon="-74.0719302" version="1"/>
+	<node id="858815845" lat="4.7118365" lon="-74.0708465" version="1"/>
+	<node id="858815853" lat="4.7120899" lon="-74.0720715" version="1"/>
+	<node id="858815879" lat="4.7127707" lon="-74.0716205" version="1"/>
+	<node id="858825035" lat="4.7129819" lon="-74.0722695" version="1"/>
+	<node id="885733641" lat="4.7127873" lon="-74.0725161" version="1">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="885733651" lat="4.7122229" lon="-74.0718196" version="1">
+		<tag k="amenity" v="bank"/>
+		<tag k="level" v="mezzanine"/>
+		<tag k="local_ref" v="101 - S121"/>
+		<tag k="name" v="colpatria"/>
+		<tag k="phone" v="6434093/94/99"/>
+	</node>
+	<node id="885733663" lat="4.71281" lon="-74.07241" version="1">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="932468522" lat="4.7109968" lon="-74.07089" version="1"/>
+	<node id="932468525" lat="4.7116861" lon="-74.071629" version="1">
+		<tag k="entrance" v="yes"/>
+	</node>
+	<node id="932468526" lat="4.7110744" lon="-74.0709013" version="1"/>
+	<node id="932468527" lat="4.7117895" lon="-74.071832" version="1">
+		<tag k="amenity" v="fast_food"/>
+		<tag k="brand" v="McDonald&#39;s"/>
+		<tag k="brand:wikidata" v="Q38076"/>
+		<tag k="brand:wikipedia" v="en:McDonald&#39;s"/>
+		<tag k="cuisine" v="burger"/>
+		<tag k="level" v="2"/>
+		<tag k="local_ref" v="128-129"/>
+		<tag k="name" v="McDonald&#39;s"/>
+		<tag k="takeaway" v="yes"/>
+	</node>
+	<node id="932468528" lat="4.7108419" lon="-74.0710156" version="1"/>
+	<node id="932468529" lat="4.7109768" lon="-74.0710493" version="1"/>
+	<node id="1194778345" lat="4.7123086" lon="-74.0710705" version="1">
+		<tag k="amenity" v="cinema"/>
+		<tag k="level" v="3"/>
+		<tag k="name" v="Procinal"/>
+	</node>
+	<node id="1350965431" lat="4.7124687" lon="-74.0718215" version="1">
+		<tag k="amenity" v="bank"/>
+		<tag k="brand" v="Bancolombia"/>
+		<tag k="brand:wikidata" v="Q806206"/>
+		<tag k="brand:wikipedia" v="en:Bancolombia"/>
+		<tag k="level" v="1"/>
+		<tag k="local_ref" v="133/34"/>
+		<tag k="name" v="Bancolombia"/>
+	</node>
+	<node id="1350965432" lat="4.7123834" lon="-74.0714886" version="1">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="level" v="3"/>
+		<tag k="local_ref" v="3-25"/>
+		<tag k="name" v="Crepes &#38; Waffles"/>
+	</node>
+	<node id="1354342027" lat="4.7119905" lon="-74.071861" version="1">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="contact:phone" v="+57 1 2263155"/>
+		<tag k="local_ref" v="325"/>
+		<tag k="name" v="crepes &#38; waffles"/>
+	</node>
+	<node id="1354342031" lat="4.7121188" lon="-74.0718934" version="1">
+		<tag k="amenity" v="fast_food"/>
+		<tag k="local_ref" v="1111"/>
+		<tag k="name" v="pizza gourmet 1969"/>
+	</node>
+	<node id="1774269023" lat="4.709074" lon="-74.0733019" version="1"/>
+	<node id="1774269024" lat="4.709079" lon="-74.0730823" version="1"/>
+	<node id="1774269026" lat="4.7091511" lon="-74.0739133" version="1"/>
+	<node id="1774269027" lat="4.7091561" lon="-74.0746919" version="1"/>
+	<node id="1774269028" lat="4.709166" lon="-74.0741005" version="1"/>
+	<node id="1774269031" lat="4.7092805" lon="-74.0744448" version="1"/>
+	<node id="1774269032" lat="4.7092829" lon="-74.0746894" version="1"/>
+	<node id="1774269038" lat="4.7093775" lon="-74.0744299" version="1"/>
+	<node id="1774269039" lat="4.7093799" lon="-74.0746919" version="1"/>
+	<node id="1774269040" lat="4.7093799" lon="-74.0749739" version="1"/>
+	<node id="1774269042" lat="4.7093826" lon="-74.0741204" version="1"/>
+	<node id="1774269043" lat="4.7093884" lon="-74.0744155" version="1"/>
+	<node id="1774269044" lat="4.7093998" lon="-74.0722587" version="1">
+		<tag k="highway" v="turning_circle"/>
+	</node>
+	<node id="1774269045" lat="4.7094107" lon="-74.0728038" version="1"/>
+	<node id="1774269046" lat="4.7094098" lon="-74.0741229" version="1"/>
+	<node id="1774269047" lat="4.7094098" lon="-74.0743625" version="1"/>
+	<node id="1774269048" lat="4.7094993" lon="-74.0743625" version="1"/>
+	<node id="1774269049" lat="4.7095043" lon="-74.074098" version="1"/>
+	<node id="1774269051" lat="4.7095341" lon="-74.0749539" version="1"/>
+	<node id="1774269053" lat="4.7095366" lon="-74.0747892" version="1"/>
+	<node id="1774269055" lat="4.7096212" lon="-74.0732919" version="1"/>
+	<node id="1774269057" lat="4.7096287" lon="-74.0739108" version="1"/>
+	<node id="1774269058" lat="4.7097431" lon="-74.0741054" version="1"/>
+	<node id="1774269059" lat="4.7097555" lon="-74.0733044" version="1"/>
+	<node id="1774269060" lat="4.7098301" lon="-74.0730598" version="1"/>
+	<node id="1774269061" lat="4.7098301" lon="-74.0731621" version="1"/>
+	<node id="1774269066" lat="4.7098376" lon="-74.0746944" version="1"/>
+	<node id="1774269068" lat="4.7098533" lon="-74.0747932" version="1"/>
+	<node id="1797782198" lat="4.7113527" lon="-74.0725251" version="1">
+		<tag k="name" v="Drogueria Acuña"/>
+		<tag k="shop" v="chemist"/>
+	</node>
+	<node id="1797782199" lat="4.7116437" lon="-74.0732861" version="1">
+		<tag k="name" v="Carulla"/>
+		<tag k="name:es" v="Carulla niza"/>
+		<tag k="shop" v="supermarket"/>
+	</node>
+	<node id="1797782200" lat="4.71128" lon="-74.0729952" version="1">
+		<tag k="amenity" v="post_office"/>
+		<tag k="name" v="Servientrega"/>
+	</node>
+	<node id="1797782201" lat="4.7117502" lon="-74.0726965" version="1">
+		<tag k="name" v="Naturista"/>
+		<tag k="organic" v="only"/>
+		<tag k="shop" v="supermarket"/>
+	</node>
+	<node id="1797782202" lat="4.7113069" lon="-74.0728031" version="1">
+		<tag k="name" v="La Casona"/>
+		<tag k="shop" v="bakery"/>
+	</node>
+	<node id="1797782203" lat="4.7112151" lon="-74.0735277" version="1">
+		<tag k="name" v="Aviatur"/>
+		<tag k="shop" v="travel_agency"/>
+	</node>
+	<node id="1797782204" lat="4.7116852" lon="-74.0731017" version="1">
+		<tag k="name" v="Aquiles"/>
+		<tag k="shop" v="shoes"/>
+	</node>
+	<node id="1998849953" lat="4.7126358" lon="-74.0706194" version="1"/>
+	<node id="1998849954" lat="4.7128596" lon="-74.0715329" version="1"/>
+	<node id="1998849955" lat="4.7128749" lon="-74.0706135" version="1"/>
+	<node id="1998849956" lat="4.7129382" lon="-74.0715984" version="1"/>
+	<node id="2317879716" lat="4.7110824" lon="-74.0738355" version="1"/>
+	<node id="2317879717" lat="4.7111154" lon="-74.0736621" version="1"/>
+	<node id="2317879718" lat="4.711316" lon="-74.0724543" version="1"/>
+	<node id="2317879719" lat="4.7114902" lon="-74.0739203" version="1"/>
+	<node id="2317879720" lat="4.7115588" lon="-74.0738978" version="1"/>
+	<node id="2317879721" lat="4.7118215" lon="-74.0725643" version="1"/>
+	<node id="2428041081" lat="4.7101517" lon="-74.071781" version="1"/>
+	<node id="2428041082" lat="4.7095769" lon="-74.0717644" version="1"/>
+	<node id="2428041083" lat="4.7101237" lon="-74.0718448" version="1"/>
+	<node id="2428041084" lat="4.7101478" lon="-74.0719523" version="1"/>
+	<node id="2464315760" lat="4.7125453" lon="-74.0704951" version="1">
+		<tag k="highway" v="bus_stop"/>
+	</node>
+	<node id="3864369062" lat="4.7113492" lon="-74.0710469" version="1">
+		<tag k="bus" v="yes"/>
+		<tag k="name" v="Centro Comercial Bulevar Niza"/>
+		<tag k="network" v="co:dc:sitp"/>
+		<tag k="operator" v="SITP"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref:sitp" v="007A02"/>
+		<tag k="source" v="BogoMap"/>
+	</node>
+	<node id="3864369063" lat="4.7109204" lon="-74.0734504" version="1">
+		<tag k="bus" v="yes"/>
+		<tag k="name" v="Centro Comercial Niza"/>
+		<tag k="network" v="co:dc:sitp"/>
+		<tag k="operator" v="SITP"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="ref:sitp" v="183A03"/>
+		<tag k="source" v="BogoMap"/>
+	</node>
+	<node id="3864369161" lat="4.7109566" lon="-74.0734881" version="1"/>
+	<node id="3864369162" lat="4.710964" lon="-74.073447" version="1"/>
+	<node id="3864369163" lat="4.7109747" lon="-74.0734914" version="1"/>
+	<node id="3864369164" lat="4.7109821" lon="-74.0734503" version="1"/>
+	<node id="3864369169" lat="4.7110932" lon="-74.0713595" version="1"/>
+	<node id="3864369170" lat="4.7111833" lon="-74.0713777" version="1"/>
+	<node id="3864369175" lat="4.7114269" lon="-74.0711182" version="1"/>
+	<node id="3864369176" lat="4.7114313" lon="-74.0710724" version="1"/>
+	<node id="3864369177" lat="4.7114471" lon="-74.0711202" version="1"/>
+	<node id="3864369178" lat="4.7114515" lon="-74.0710744" version="1"/>
+	<node id="3881271894" lat="4.7098043" lon="-74.0720175" version="1">
+		<tag k="bench" v="no"/>
+		<tag k="highway" v="bus_stop"/>
+		<tag k="name" v="Niza sur"/>
+		<tag k="network" v="co:dc:sitp"/>
+		<tag k="operator" v="SITP"/>
+		<tag k="public_transport" v="platform"/>
+		<tag k="ref:sitp" v="578A03"/>
+		<tag k="shelter" v="no"/>
+		<tag k="source" v="BogoMap"/>
+	</node>
+	<node id="3881271969" lat="4.7095611" lon="-74.0719009" version="1"/>
+	<node id="3881271970" lat="4.7106653" lon="-74.0722244" version="1"/>
+	<node id="3881271971" lat="4.7107994" lon="-74.0730996" version="1"/>
+	<node id="4069368780" lat="4.7125566" lon="-74.0724244" version="1">
+		<tag k="entrance" v="yes"/>
+	</node>
+	<node id="4069368781" lat="4.7127959" lon="-74.0724759" version="1"/>
+	<node id="4069368782" lat="4.7114707" lon="-74.0721953" version="1">
+		<tag k="entrance" v="yes"/>
+	</node>
+	<node id="4069368783" lat="4.7111388" lon="-74.0721756" version="1">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="4069739876" lat="4.7129013" lon="-74.0723264" version="1"/>
+	<node id="4069739877" lat="4.7118462" lon="-74.0724875" version="1"/>
+	<node id="4069739878" lat="4.7121988" lon="-74.0725392" version="1"/>
+	<node id="4613236688" lat="4.7113508" lon="-74.07042" version="1"/>
+	<node id="4613237789" lat="4.7112794" lon="-74.0702997" version="1"/>
+	<node id="4613237790" lat="4.7112342" lon="-74.0700538" version="1"/>
+	<node id="4808013423" lat="4.7107225" lon="-74.0732179" version="1">
+		<tag k="highway" v="bus_stop"/>
+	</node>
+	<node id="4808013424" lat="4.7110107" lon="-74.0708624" version="1">
+		<tag k="highway" v="bus_stop"/>
+	</node>
+	<node id="4913723098" lat="4.7127744" lon="-74.0725768" version="1">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="4913731515" lat="4.712131" lon="-74.0725678" version="1"/>
+	<node id="4913731516" lat="4.7125526" lon="-74.0724439" version="1"/>
+	<node id="4913731517" lat="4.7125613" lon="-74.0724013" version="1"/>
+	<node id="4913731518" lat="4.7114744" lon="-74.0721772" version="1"/>
+	<node id="4913731519" lat="4.7114657" lon="-74.0722195" version="1"/>
+	<node id="4913731520" lat="4.7112654" lon="-74.0721522" version="1"/>
+	<node id="4913735021" lat="4.7112514" lon="-74.0723718" version="1">
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="traffic_signals" v="signal"/>
+	</node>
+	<node id="4913735022" lat="4.7112275" lon="-74.0723429" version="1"/>
+	<node id="4913735023" lat="4.7113136" lon="-74.0719098" version="1"/>
+	<node id="4913735025" lat="4.7113709" lon="-74.0718694" version="1">
+		<tag k="entrance" v="yes"/>
+		<tag k="highway" v="traffic_signals"/>
+		<tag k="traffic_signals" v="signal"/>
+	</node>
+	<node id="4913735028" lat="4.7124485" lon="-74.0723292" version="1"/>
+	<node id="4913735029" lat="4.7115558" lon="-74.0721447" version="1"/>
+	<node id="4913735031" lat="4.7112556" lon="-74.0722015" version="1"/>
+	<node id="4913735032" lat="4.7124361" lon="-74.0724405" version="1"/>
+	<node id="4913735033" lat="4.7111919" lon="-74.0718863" version="1"/>
+	<node id="4913735034" lat="4.7103945" lon="-74.0720086" version="1"/>
+	<node id="4913735035" lat="4.7106356" lon="-74.0720636" version="1"/>
+	<node id="4913735036" lat="4.7098061" lon="-74.0718835" version="1"/>
+	<node id="4987016821" lat="4.7112699" lon="-74.0733075" version="1">
+		<tag k="name" v="Surtimar"/>
+		<tag k="name:es" v="Surtimar"/>
+		<tag k="shop" v="seafood"/>
+	</node>
+	<node id="5101582902" lat="4.7107446" lon="-74.0723079" version="1"/>
+	<node id="5146024537" lat="4.7116825" lon="-74.0725822" version="1">
+		<tag k="addr:street" v="Avenida Suba"/>
+		<tag k="amenity" v="bank"/>
+		<tag k="brand" v="BBVA"/>
+		<tag k="brand:wikidata" v="Q806189"/>
+		<tag k="brand:wikipedia" v="en:Banco Bilbao Vizcaya Argentaria"/>
+		<tag k="name" v="BBVA"/>
+		<tag k="official_name" v="Banco Bilbao Vizcaya Argentaria"/>
+		<tag k="source" v="Kaart Ground Survey 2017"/>
+	</node>
+	<node id="5146024538" lat="4.7115032" lon="-74.0725273" version="1">
+		<tag k="addr:street" v="Avenida Suba"/>
+		<tag k="amenity" v="bank"/>
+		<tag k="brand" v="Banco AV Villas"/>
+		<tag k="brand:en" v="Bank of Villas"/>
+		<tag k="brand:es" v="Banco AV Villas"/>
+		<tag k="brand:wikidata" v="Q4854068"/>
+		<tag k="brand:wikipedia" v="en:Banco AV Villas"/>
+		<tag k="name" v="Banco AV Villas"/>
+		<tag k="name:en" v="Bank of Villas"/>
+		<tag k="name:es" v="Banco AV Villas"/>
+		<tag k="source" v="Kaart Ground Survey 2017"/>
+	</node>
+	<node id="5146066263" lat="4.7104011" lon="-74.074901" version="1"/>
+	<node id="5146066264" lat="4.7103837" lon="-74.0748889" version="1"/>
+	<node id="5146066265" lat="4.7103799" lon="-74.0748054" version="1"/>
+	<node id="5146066266" lat="4.7102907" lon="-74.0748101" version="1"/>
+	<node id="5146066268" lat="4.710284" lon="-74.0746812" version="1"/>
+	<node id="5146066269" lat="4.7104058" lon="-74.0746748" version="1"/>
+	<node id="5146066270" lat="4.7104126" lon="-74.0748037" version="1"/>
+	<node id="5146066271" lat="4.7104395" lon="-74.0744818" version="1"/>
+	<node id="5146066272" lat="4.7104363" lon="-74.0744403" version="1"/>
+	<node id="5146066273" lat="4.7103401" lon="-74.0744478" version="1"/>
+	<node id="5146066274" lat="4.7103433" lon="-74.0744893" version="1"/>
+	<node id="5146066275" lat="4.7105089" lon="-74.0744116" version="1"/>
+	<node id="5146066276" lat="4.7103444" lon="-74.0744169" version="1"/>
+	<node id="5146066277" lat="4.7103377" lon="-74.0742101" version="1"/>
+	<node id="5146066278" lat="4.7105022" lon="-74.0742048" version="1"/>
+	<node id="5146066279" lat="4.710374" lon="-74.0742095" version="1"/>
+	<node id="5146066280" lat="4.7103694" lon="-74.0740811" version="1"/>
+	<node id="5146066281" lat="4.7105156" lon="-74.0740758" version="1"/>
+	<node id="5146066282" lat="4.7105202" lon="-74.0742041" version="1"/>
+	<node id="5146066283" lat="4.7104868" lon="-74.0741853" version="1">
+		<tag k="name" v="La Casita"/>
+		<tag k="shop" v="yes"/>
+		<tag k="source" v="Kaart Ground Survey 2017"/>
+	</node>
+	<node id="5146066284" lat="4.7104868" lon="-74.0741303" version="1">
+		<tag k="amenity" v="dentist"/>
+		<tag k="name" v="Odontoestilo"/>
+		<tag k="source" v="Kaart Ground Survey 2017"/>
+	</node>
+	<node id="5146089945" lat="4.7105572" lon="-74.0739865" version="1"/>
+	<node id="5146089946" lat="4.7103681" lon="-74.073982" version="1"/>
+	<node id="5146089947" lat="4.7103707" lon="-74.0738639" version="1"/>
+	<node id="5146089948" lat="4.7105616" lon="-74.0738699" version="1"/>
+	<node id="5146089949" lat="4.7103742" lon="-74.0737516" version="1"/>
+	<node id="5146089950" lat="4.7105651" lon="-74.0737575" version="1"/>
+	<node id="5146089951" lat="4.7103905" lon="-74.0737576" version="1"/>
+	<node id="5146089952" lat="4.7103903" lon="-74.0735165" version="1"/>
+	<node id="5146089953" lat="4.7106275" lon="-74.0735164" version="1"/>
+	<node id="5146089954" lat="4.7106276" lon="-74.0736243" version="1"/>
+	<node id="5146089955" lat="4.7105996" lon="-74.0736243" version="1"/>
+	<node id="5146089956" lat="4.7105997" lon="-74.0737575" version="1"/>
+	<node id="5146089957" lat="4.7105976" lon="-74.0735175" version="1"/>
+	<node id="5146089958" lat="4.7104477" lon="-74.0735154" version="1"/>
+	<node id="5146089959" lat="4.7104493" lon="-74.0734039" version="1"/>
+	<node id="5146089960" lat="4.7106235" lon="-74.0734064" version="1"/>
+	<node id="5146089961" lat="4.7106226" lon="-74.0734743" version="1"/>
+	<node id="5146089962" lat="4.7105982" lon="-74.073474" version="1"/>
+	<node id="5146089963" lat="4.7104789" lon="-74.0734055" version="1"/>
+	<node id="5146089964" lat="4.7104796" lon="-74.0732932" version="1"/>
+	<node id="5146089965" lat="4.7106561" lon="-74.0732943" version="1"/>
+	<node id="5146089966" lat="4.7106555" lon="-74.0734066" version="1"/>
+	<node id="5146089967" lat="4.7106374" lon="-74.0732949" version="1"/>
+	<node id="5146089968" lat="4.7105042" lon="-74.0732933" version="1"/>
+	<node id="5146089969" lat="4.7105064" lon="-74.0731752" version="1"/>
+	<node id="5146089970" lat="4.7106388" lon="-74.0731775" version="1"/>
+	<node id="5146089971" lat="4.7106032" lon="-74.0732615" version="1">
+		<tag k="name" v="Maxi Autos"/>
+		<tag k="shop" v="car_parts"/>
+		<tag k="source" v="Kaart Ground Survey 2017"/>
+	</node>
+	<node id="5146089972" lat="4.7105026" lon="-74.0730702" version="1"/>
+	<node id="5146089973" lat="4.7106868" lon="-74.0730675" version="1"/>
+	<node id="5146089974" lat="4.7106848" lon="-74.0731783" version="1"/>
+	<node id="5146089975" lat="4.7104987" lon="-74.0728187" version="1"/>
+	<node id="5146089976" lat="4.7107196" lon="-74.0728162" version="1"/>
+	<node id="5146089977" lat="4.7107197" lon="-74.0728842" version="1"/>
+	<node id="5146089978" lat="4.7107026" lon="-74.0728844" version="1"/>
+	<node id="5146089979" lat="4.7107053" lon="-74.0730672" version="1"/>
+	<node id="5146089980" lat="4.7106621" lon="-74.0730279" version="1">
+		<tag k="leisure" v="sport"/>
+		<tag k="name" v="Carmin Pool"/>
+		<tag k="source" v="Kaart Ground Survey 2017"/>
+		<tag k="sport" v="billiards"/>
+	</node>
+	<node id="5146089981" lat="4.7106541" lon="-74.0729232" version="1">
+		<tag k="name" v="Ara"/>
+		<tag k="shop" v="supermarket"/>
+		<tag k="source" v="Kaart Ground Survey 2017"/>
+	</node>
+	<node id="5146089982" lat="4.7104979" lon="-74.0726982" version="1"/>
+	<node id="5146089983" lat="4.7107173" lon="-74.0726954" version="1"/>
+	<node id="5146089984" lat="4.7104962" lon="-74.072566" version="1"/>
+	<node id="5146089985" lat="4.7107157" lon="-74.0725632" version="1"/>
+	<node id="5146089986" lat="4.7106768" lon="-74.0726707" version="1">
+		<tag k="name" v="Sex Shop"/>
+		<tag k="shop" v="erotic"/>
+		<tag k="source" v="Kaart Ground Survey 2017"/>
+	</node>
+	<node id="5146089987" lat="4.710674" lon="-74.0726333" version="1">
+		<tag k="amenity" v="fast_food"/>
+		<tag k="brand" v="Papa John&#39;s"/>
+		<tag k="brand:wikidata" v="Q2759586"/>
+		<tag k="brand:wikipedia" v="en:Papa John&#39;s Pizza"/>
+		<tag k="cuisine" v="pizza"/>
+		<tag k="name" v="Papa John&#39;s"/>
+		<tag k="source" v="Kaart Ground Survey 2017"/>
+		<tag k="takeaway" v="yes"/>
+	</node>
+	<node id="5146089988" lat="4.7106822" lon="-74.0725888" version="1">
+		<tag k="name" v="Quimica Alemana"/>
+		<tag k="shop" v="yes"/>
+		<tag k="source" v="Kaart Ground Survey 2017"/>
+	</node>
+	<node id="5146089989" lat="4.7106971" lon="-74.0725434" version="1"/>
+	<node id="5146089990" lat="4.7102461" lon="-74.0725497" version="1"/>
+	<node id="5146089991" lat="4.7102426" lon="-74.0722997" version="1"/>
+	<node id="5146089992" lat="4.7105424" lon="-74.0722955" version="1"/>
+	<node id="5146089993" lat="4.7105436" lon="-74.0723796" version="1"/>
+	<node id="5146089994" lat="4.7106366" lon="-74.0723783" version="1"/>
+	<node id="5146089995" lat="4.7106374" lon="-74.0724367" version="1"/>
+	<node id="5146089996" lat="4.7106956" lon="-74.0724359" version="1"/>
+	<node id="5146089997" lat="4.7100617" lon="-74.0722684" version="1"/>
+	<node id="5146089998" lat="4.7100606" lon="-74.0721315" version="1"/>
+	<node id="5146089999" lat="4.7098573" lon="-74.0721332" version="1"/>
+	<node id="5146090000" lat="4.7098584" lon="-74.07227" version="1"/>
+	<node id="5146090001" lat="4.7095774" lon="-74.0722202" version="1"/>
+	<node id="5146090002" lat="4.7095742" lon="-74.072049" version="1"/>
+	<node id="5146090003" lat="4.7094953" lon="-74.0720505" version="1"/>
+	<node id="5146090004" lat="4.7094985" lon="-74.0722217" version="1"/>
+	<node id="5146090005" lat="4.7094176" lon="-74.072084" version="1">
+		<tag k="addr:street" v="Avenida Suba"/>
+		<tag k="amenity" v="car_wash"/>
+		<tag k="name" v="Lavafante"/>
+		<tag k="source" v="Kaart Ground Survey 2017"/>
+	</node>
+	<node id="5146090010" lat="4.7091492" lon="-74.0719631" version="1">
+		<tag k="addr:street" v="Avenida Suba"/>
+		<tag k="name" v="Servientrega"/>
+		<tag k="shop" v="yes"/>
+		<tag k="source" v="Kaart Ground Survey 2017"/>
+	</node>
+	<node id="5146090011" lat="4.7091117" lon="-74.0719612" version="1">
+		<tag k="addr:street" v="Avenida Suba"/>
+		<tag k="name" v="Stella de Triana"/>
+		<tag k="shop" v="beauty"/>
+		<tag k="source" v="Kaart Ground Survey 2017"/>
+	</node>
+	<node id="5146098153" lat="4.7090337" lon="-74.0719896" version="1"/>
+	<node id="5146098158" lat="4.7090911" lon="-74.0720666" version="1"/>
+	<node id="5146098159" lat="4.709098" lon="-74.0719179" version="1"/>
+	<node id="5146098160" lat="4.7090369" lon="-74.0719152" version="1"/>
+	<node id="5146098161" lat="4.7090299" lon="-74.0720635" version="1"/>
+	<node id="5146098162" lat="4.7090935" lon="-74.0720191" version="1"/>
+	<node id="5146098163" lat="4.7090968" lon="-74.0719463" version="1"/>
+	<node id="5146098164" lat="4.7091801" lon="-74.0719489" version="1"/>
+	<node id="5146098165" lat="4.7091778" lon="-74.0720218" version="1"/>
+	<node id="5150090957" lat="4.7118339" lon="-74.0703166" version="1"/>
+	<node id="5150090958" lat="4.7116698" lon="-74.0702308" version="1"/>
+	<node id="5150090959" lat="4.7115616" lon="-74.0701169" version="1"/>
+	<node id="5150090961" lat="4.7129752" lon="-74.0704821" version="1"/>
+	<node id="5150519730" lat="4.7129853" lon="-74.0701472" version="1"/>
+	<node id="5150519733" lat="4.7129755" lon="-74.069973" version="1"/>
+	<node id="5401630361" lat="4.7108889" lon="-74.0715226" version="1"/>
+	<node id="5401630362" lat="4.710942" lon="-74.0704851" version="1"/>
+	<node id="5401630363" lat="4.7110825" lon="-74.0704384" version="1"/>
+	<node id="5401630364" lat="4.7111548" lon="-74.0703646" version="1"/>
+	<node id="5401630365" lat="4.7111749" lon="-74.0700071" version="1"/>
+	<node id="5401630366" lat="4.7109305" lon="-74.070554" version="1"/>
+	<node id="5401630367" lat="4.7110157" lon="-74.0704675" version="1"/>
+	<node id="5401630368" lat="4.7107086" lon="-74.0705133" version="1"/>
+	<node id="5401630369" lat="4.7109051" lon="-74.0721846" version="1">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="5401630370" lat="4.7109109" lon="-74.0721246" version="1"/>
+	<node id="5401630371" lat="4.7114989" lon="-74.070614" version="1"/>
+	<node id="5583856529" lat="4.7106654" lon="-74.0746131" version="1"/>
+	<node id="5583856530" lat="4.7106481" lon="-74.0747501" version="1"/>
+	<node id="5583856531" lat="4.710636" lon="-74.0748081" version="1"/>
+	<node id="5583856532" lat="4.7106212" lon="-74.074833" version="1"/>
+	<node id="5583856533" lat="4.7106985" lon="-74.0743946" version="1"/>
+	<node id="5583856536" lat="4.7107241" lon="-74.0746439" version="1"/>
+	<node id="5583856537" lat="4.7105808" lon="-74.0744614" version="1"/>
+	<node id="5583856538" lat="4.710566" lon="-74.0748477" version="1"/>
+	<node id="5583856539" lat="4.710779" lon="-74.0737962" version="1"/>
+	<node id="5583868371" lat="4.711069" lon="-74.0730924" version="1"/>
+	<node id="5583868372" lat="4.7111013" lon="-74.0731833" version="1"/>
+	<node id="5583868374" lat="4.7111988" lon="-74.0724165" version="1"/>
+	<node id="5583868375" lat="4.7109733" lon="-74.0715517" version="1"/>
+	<node id="5583868376" lat="4.7110472" lon="-74.0723879" version="1"/>
+	<node id="5583868377" lat="4.7109495" lon="-74.0723762" version="1"/>
+	<node id="5583868378" lat="4.7108634" lon="-74.0729588" version="1"/>
+	<node id="5583868379" lat="4.7107936" lon="-74.0734585" version="1"/>
+	<node id="5583868380" lat="4.7106539" lon="-74.0742676" version="1"/>
+	<node id="5583868381" lat="4.7105783" lon="-74.0747965" version="1"/>
+	<node id="5583868382" lat="4.7106202" lon="-74.0748023" version="1"/>
+	<node id="5583868383" lat="4.7106993" lon="-74.0743003" version="1"/>
+	<node id="5583868384" lat="4.7107517" lon="-74.0741707" version="1"/>
+	<node id="5583868385" lat="4.7108657" lon="-74.0734947" version="1"/>
+	<node id="5583868404" lat="4.7111105" lon="-74.0723283" version="1"/>
+	<node id="5583868405" lat="4.7110046" lon="-74.0723151" version="1"/>
+	<node id="5583868406" lat="4.7108937" lon="-74.0723013" version="1"/>
+	<node id="5583868407" lat="4.7107924" lon="-74.0722887" version="1"/>
+	<node id="5583868408" lat="4.7108031" lon="-74.0721613" version="1"/>
+	<node id="5583868409" lat="4.7108082" lon="-74.072102" version="1"/>
+	<node id="5583868410" lat="4.7108176" lon="-74.07199" version="1"/>
+	<node id="5583868411" lat="4.7108233" lon="-74.071922" version="1"/>
+	<node id="5583868412" lat="4.7108332" lon="-74.0718051" version="1"/>
+	<node id="5583868413" lat="4.7108122" lon="-74.0710928" version="1"/>
+	<node id="5583868414" lat="4.7108483" lon="-74.0715877" version="1"/>
+	<node id="5583868416" lat="4.7113131" lon="-74.0712366" version="1"/>
+	<node id="5583868417" lat="4.7113044" lon="-74.0716158" version="1"/>
+	<node id="5583868418" lat="4.7114073" lon="-74.0719217" version="1"/>
+	<node id="5583868419" lat="4.7126439" lon="-74.0707087" version="1"/>
+	<node id="5583868420" lat="4.7125376" lon="-74.0707094" version="1"/>
+	<node id="5583868521" lat="4.7125328" lon="-74.070607" version="1"/>
+	<node id="5583868522" lat="4.7123532" lon="-74.0706155" version="1"/>
+	<node id="5583868523" lat="4.7123568" lon="-74.0707339" version="1"/>
+	<node id="5583868524" lat="4.7118379" lon="-74.0713298" version="1"/>
+	<node id="5583868525" lat="4.7116221" lon="-74.0711619" version="1"/>
+	<node id="5583868526" lat="4.7116508" lon="-74.0711272" version="1"/>
+	<node id="5583868527" lat="4.7116676" lon="-74.071662" version="1"/>
+	<node id="5583868528" lat="4.7114462" lon="-74.0706769" version="1"/>
+	<node id="5583868529" lat="4.7116366" lon="-74.0705008" version="1"/>
+	<node id="5583868530" lat="4.7115118" lon="-74.0704753" version="1"/>
+	<node id="5583868531" lat="4.711388" lon="-74.0704433" version="1"/>
+	<node id="5583868532" lat="4.7112606" lon="-74.0701914" version="1"/>
+	<node id="5583868533" lat="4.7111702" lon="-74.0701628" version="1"/>
+	<node id="5583868534" lat="4.7111751" lon="-74.069873" version="1"/>
+	<node id="5583868535" lat="4.7112232" lon="-74.0701351" version="1"/>
+	<node id="5583868536" lat="4.7112554" lon="-74.0703184" version="1"/>
+	<node id="5583868537" lat="4.7112877" lon="-74.0704016" version="1"/>
+	<node id="5583868538" lat="4.7113583" lon="-74.0705017" version="1"/>
+	<node id="5583868539" lat="4.7112923" lon="-74.0709131" version="1"/>
+	<node id="5583868540" lat="4.7112401" lon="-74.0713105" version="1"/>
+	<node id="5583868541" lat="4.7112048" lon="-74.0713398" version="1"/>
+	<node id="5583868542" lat="4.7111741" lon="-74.0713413" version="1"/>
+	<node id="5583868543" lat="4.7111203" lon="-74.0713228" version="1"/>
+	<node id="5583868544" lat="4.7111035" lon="-74.0712843" version="1"/>
+	<node id="5583868545" lat="4.711105" lon="-74.0711981" version="1"/>
+	<node id="5583868546" lat="4.7111418" lon="-74.0708853" version="1"/>
+	<node id="5583868547" lat="4.7112017" lon="-74.0704232" version="1"/>
+	<node id="5583868548" lat="4.7111326" lon="-74.0718512" version="1"/>
+	<node id="5583868549" lat="4.7109868" lon="-74.071822" version="1"/>
+	<node id="5583868550" lat="4.7110436" lon="-74.0713721" version="1"/>
+	<node id="5583868551" lat="4.7110835" lon="-74.0713999" version="1"/>
+	<node id="5583868552" lat="4.7111142" lon="-74.0714184" version="1"/>
+	<node id="5583868553" lat="4.7111541" lon="-74.0714261" version="1"/>
+	<node id="5583868554" lat="4.7112002" lon="-74.0714276" version="1"/>
+	<node id="5583868555" lat="4.7112422" lon="-74.0716101" version="1"/>
+	<node id="5583868556" lat="4.7113374" lon="-74.0702952" version="1"/>
+	<node id="5583868557" lat="4.711139" lon="-74.0693968" version="1"/>
+	<node id="5583868559" lat="4.7114119" lon="-74.0694207" version="1"/>
+	<node id="5583868560" lat="4.7113338" lon="-74.0690919" version="1"/>
+	<node id="5583904477" lat="4.7111368" lon="-74.0690742" version="1"/>
+	<node id="5583904478" lat="4.711166" lon="-74.0692683" version="1"/>
+	<node id="5583904479" lat="4.7112075" lon="-74.0695841" version="1"/>
+	<node id="5583904480" lat="4.7112474" lon="-74.0699168" version="1"/>
+	<node id="5583904481" lat="4.7112904" lon="-74.0702142" version="1"/>
+	<node id="5583904482" lat="4.7113088" lon="-74.0703143" version="1"/>
+	<node id="5583904483" lat="4.7113456" lon="-74.0703636" version="1"/>
+	<node id="5583904484" lat="4.7113748" lon="-74.0703682" version="1"/>
+	<node id="5583904485" lat="4.7114147" lon="-74.0701556" version="1"/>
+	<node id="5583904486" lat="4.7114147" lon="-74.0698614" version="1"/>
+	<node id="5583904487" lat="4.7113717" lon="-74.0694424" version="1"/>
+	<node id="5583904488" lat="4.7113057" lon="-74.0691851" version="1"/>
+	<node id="5587141126" lat="4.7095292" lon="-74.0718052" version="1"/>
+	<node id="5587141127" lat="4.7098773" lon="-74.0718594" version="1"/>
+	<node id="5587141128" lat="4.7102998" lon="-74.0719285" version="1"/>
+	<node id="5587141129" lat="4.7105752" lon="-74.0719901" version="1"/>
+	<node id="5587168400" lat="4.7128941" lon="-74.0724886" version="1"/>
+	<node id="5593291651" lat="4.7101561" lon="-74.0730087" version="1"/>
+	<node id="5631387625" lat="4.7116708" lon="-74.0732111" version="1">
+		<tag k="amenity" v="pharmacy"/>
+		<tag k="name" v="Droguería cafam niza"/>
+	</node>
+	<node id="5720901481" lat="4.7119209" lon="-74.0703387" version="1"/>
+	<node id="5720901482" lat="4.7123408" lon="-74.0704223" version="1"/>
+	<node id="5720901485" lat="4.7118443" lon="-74.0704034" version="1"/>
+	<node id="5720901486" lat="4.7118456" lon="-74.0703692" version="1"/>
+	<node id="5720901487" lat="4.7118436" lon="-74.070422" version="1"/>
+	<node id="5720901488" lat="4.7115195" lon="-74.0704403" version="1"/>
+	<node id="5720901489" lat="4.7115336" lon="-74.070111" version="1"/>
+	<node id="5720901490" lat="4.7115883" lon="-74.0701862" version="1"/>
+	<node id="5720901491" lat="4.7116673" lon="-74.0702696" version="1"/>
+	<node id="5720901492" lat="4.7118011" lon="-74.0703448" version="1"/>
+	<node id="5720901493" lat="4.7117301" lon="-74.0703133" version="1"/>
+	<node id="5720901495" lat="4.7129436" lon="-74.072302" version="1"/>
+	<node id="5728353525" lat="4.711501" lon="-74.07402" version="1"/>
+	<node id="6069909139" lat="4.712183" lon="-74.069371" version="1"/>
+	<node id="6069909140" lat="4.712454" lon="-74.0691556" version="1"/>
+	<node id="6069909141" lat="4.7126244" lon="-74.0690829" version="1"/>
+	<node id="6069909143" lat="4.7124907" lon="-74.0698797" version="1"/>
+	<node id="6069909144" lat="4.7122042" lon="-74.0698472" version="1"/>
+	<node id="6069909145" lat="4.7120948" lon="-74.0698769" version="1"/>
+	<node id="6069909146" lat="4.7120135" lon="-74.0698435" version="1"/>
+	<node id="6069909147" lat="4.7118626" lon="-74.0696264" version="1"/>
+	<node id="6069909148" lat="4.7120772" lon="-74.0698122" version="1"/>
+	<node id="6069909149" lat="4.7119998" lon="-74.06972" version="1"/>
+	<node id="6069909150" lat="4.711868" lon="-74.0694381" version="1"/>
+	<node id="6069909151" lat="4.7124933" lon="-74.0696507" version="1"/>
+	<node id="6070060630" lat="4.7129313" lon="-74.0723091" version="1"/>
+	<node id="6070060640" lat="4.7120909" lon="-74.0725921" version="1"/>
+	<node id="6070060641" lat="4.7118981" lon="-74.0725457" version="1"/>
+	<node id="6070060642" lat="4.7119156" lon="-74.0725801" version="1"/>
+	<node id="6070060643" lat="4.7111984" lon="-74.0718508" version="1"/>
+	<node id="6070060644" lat="4.7110959" lon="-74.0716491" version="1"/>
+	<node id="6070060645" lat="4.71146" lon="-74.0720568" version="1"/>
+	<node id="6070060646" lat="4.7115297" lon="-74.0723282" version="1"/>
+	<node id="6070060647" lat="4.7103717" lon="-74.0720621" version="1"/>
+	<node id="6070060648" lat="4.7114096" lon="-74.0722358" version="1"/>
+	<node id="6070060649" lat="4.7114168" lon="-74.0721175" version="1"/>
+	<node id="6070060650" lat="4.7106584" lon="-74.071956" version="1"/>
+	<node id="6070060651" lat="4.7108023" lon="-74.0717877" version="1"/>
+	<node id="6070060652" lat="4.7110658" lon="-74.0725708" version="1"/>
+	<node id="6070060653" lat="4.7113107" lon="-74.0723426" version="1"/>
+	<node id="6070060654" lat="4.7113618" lon="-74.0723234" version="1"/>
+	<node id="6070060655" lat="4.7108252" lon="-74.0724287" version="1"/>
+	<node id="6070060656" lat="4.7105026" lon="-74.0718007" version="1"/>
+	<node id="6070060657" lat="4.7110206" lon="-74.0712476" version="1"/>
+	<node id="6070060658" lat="4.7110352" lon="-74.0712896" version="1"/>
+	<node id="6070060659" lat="4.7112225" lon="-74.0713637" version="1"/>
+	<node id="6070060660" lat="4.7113108" lon="-74.0716997" version="1"/>
+	<node id="6070060661" lat="4.7115188" lon="-74.072024" version="1"/>
+	<node id="6070060662" lat="4.7116295" lon="-74.0717872" version="1">
+		<tag k="entrance" v="yes"/>
+	</node>
+	<node id="6070060663" lat="4.7114787" lon="-74.0718006" version="1"/>
+	<node id="6070060664" lat="4.7107016" lon="-74.0709796" version="1"/>
+	<node id="6070060665" lat="4.710803" lon="-74.0710074" version="1"/>
+	<node id="6070060666" lat="4.7108582" lon="-74.0711722" version="1"/>
+	<node id="6070060667" lat="4.7108797" lon="-74.0712169" version="1"/>
+	<node id="6070060668" lat="4.7108367" lon="-74.0714387" version="1"/>
+	<node id="6070060669" lat="4.7107907" lon="-74.0715342" version="1"/>
+	<node id="6070060670" lat="4.7107032" lon="-74.0716267" version="1"/>
+	<node id="6070060671" lat="4.7106218" lon="-74.0716929" version="1"/>
+	<node id="6070060672" lat="4.7104882" lon="-74.0717299" version="1"/>
+	<node id="6070060673" lat="4.7103808" lon="-74.0717253" version="1"/>
+	<node id="6070060674" lat="4.7097344" lon="-74.0716313" version="1"/>
+	<node id="6070060675" lat="4.709478" lon="-74.0716005" version="1"/>
+	<node id="6070060676" lat="4.7090143" lon="-74.0715003" version="1"/>
+	<node id="6070060678" lat="4.7104775" lon="-74.0714665" version="1"/>
+	<node id="6070060679" lat="4.7107545" lon="-74.0709941" version="1"/>
+	<node id="6070060680" lat="4.7107646" lon="-74.0709658" version="1"/>
+	<node id="6070060681" lat="4.7107922" lon="-74.0709165" version="1"/>
+	<node id="6070060682" lat="4.7108245" lon="-74.0708903" version="1"/>
+	<node id="6070060683" lat="4.7108767" lon="-74.0708872" version="1"/>
+	<node id="6070060684" lat="4.7109135" lon="-74.0709088" version="1"/>
+	<node id="6070061685" lat="4.7109273" lon="-74.0709473" version="1"/>
+	<node id="6070061686" lat="4.7109243" lon="-74.0710058" version="1"/>
+	<node id="6070061687" lat="4.7109135" lon="-74.0711183" version="1"/>
+	<node id="6070061688" lat="4.7109243" lon="-74.0711907" version="1"/>
+	<node id="6070061689" lat="4.7109411" lon="-74.0712153" version="1"/>
+	<node id="6070061690" lat="4.7109112" lon="-74.0711576" version="1"/>
+	<node id="6070061691" lat="4.7108489" lon="-74.0708813" version="1"/>
+	<node id="6070061692" lat="4.7106292" lon="-74.071718" version="1"/>
+	<node id="6070061693" lat="4.7105134" lon="-74.0717571" version="1"/>
+	<node id="6070061694" lat="4.7109528" lon="-74.0717142" version="1"/>
+	<node id="6070215323" lat="4.7112997" lon="-74.0703515" version="1"/>
+	<node id="6070215324" lat="4.7114777" lon="-74.0704694" version="1"/>
+	<node id="6070215325" lat="4.7115938" lon="-74.0705262" version="1"/>
+	<node id="6070215326" lat="4.7112766" lon="-74.0713024" version="1"/>
+	<node id="6070215327" lat="4.7109745" lon="-74.0705836" version="1"/>
+	<node id="6070215328" lat="4.7108772" lon="-74.0705294" version="1"/>
+	<node id="6070215329" lat="4.7111232" lon="-74.0704061" version="1"/>
+	<node id="6234539597" lat="4.7123181" lon="-74.0698689" version="1"/>
+	<node id="6234539598" lat="4.7122965" lon="-74.06956" version="1"/>
+	<node id="6234539599" lat="4.7122348" lon="-74.0693569" version="1"/>
+	<node id="6515711602" lat="4.7128958" lon="-74.0727724" version="1"/>
+	<node id="6515711603" lat="4.7127408" lon="-74.0736254" version="1"/>
+	<node id="6534413379" lat="4.7110445" lon="-74.0704158" version="1"/>
+	<node id="6534413380" lat="4.7109055" lon="-74.07044" version="1"/>
+	<node id="6534413381" lat="4.7108253" lon="-74.0703837" version="1"/>
+	<node id="6534413382" lat="4.7108173" lon="-74.0703005" version="1"/>
+	<node id="6534413383" lat="4.7107131" lon="-74.0702361" version="1"/>
+	<node id="6534413384" lat="4.7106489" lon="-74.0698043" version="1"/>
+	<node id="6534413385" lat="4.7106649" lon="-74.0697265" version="1"/>
+	<node id="6534413386" lat="4.7106944" lon="-74.069748" version="1"/>
+	<node id="6534413387" lat="4.7107505" lon="-74.0695575" version="1"/>
+	<node id="6534413388" lat="4.7106569" lon="-74.069528" version="1"/>
+	<node id="6534413396" lat="4.7110632" lon="-74.0695924" version="1"/>
+	<node id="6534413397" lat="4.711082" lon="-74.0700162" version="1"/>
+	<node id="6587082832" lat="4.7105687" lon="-74.0717859" version="1"/>
+	<node id="6587082833" lat="4.7108651" lon="-74.0725951" version="1"/>
+	<node id="6587082834" lat="4.7112915" lon="-74.0720211" version="1"/>
+	<node id="6587082835" lat="4.7112782" lon="-74.072088" version="1"/>
+	<node id="6603440983" lat="4.710749" lon="-74.071543" version="1">
+		<tag k="fixme" v="start-date not follow ISO 8601 system. Source https://tramitefoto.mintransporte.gov.co/static/public/files/sast-aprobados.json has values for keys &#39;operator&#39;:(tercero_solicitante), &#39;ref&#39;:(&#34;Radar doppler&#34;) and &#39;from&#39;+&#39;to&#39; from Relation:enforcement"/>
+		<tag k="highway" v="speed_camera"/>
+		<tag k="start_date" v="12/12/2018"/>
+		<tag k="website" v="https://tramitefoto.mintransporte.gov.co/ubicaciones-aprobadas/"/>
+	</node>
+	<node id="6974157556" lat="4.7126571" lon="-74.0690646" version="1"/>
+	<node id="6974157557" lat="4.712473" lon="-74.0691134" version="1"/>
+	<node id="6974157558" lat="4.7124182" lon="-74.0691161" version="1"/>
+	<node id="6974157559" lat="4.7123126" lon="-74.069092" version="1"/>
+	<node id="6974157560" lat="4.7121951" lon="-74.069045" version="1"/>
+	<node id="6974175690" lat="4.7122137" lon="-74.0692073" version="1"/>
+	<node id="6974175691" lat="4.7123366" lon="-74.0696378" version="1"/>
+	<node id="6974175692" lat="4.7123687" lon="-74.0697505" version="1"/>
+	<node id="6974175693" lat="4.7123714" lon="-74.0698242" version="1"/>
+	<node id="6974175694" lat="4.7123353" lon="-74.069906" version="1"/>
+	<node id="6974189818" lat="4.7126654" lon="-74.0696271" version="1"/>
+	<node id="6974189819" lat="4.712604" lon="-74.0696619" version="1"/>
+	<node id="6974189820" lat="4.7124155" lon="-74.0697545" version="1"/>
+	<node id="7464679447" lat="4.7121054" lon="-74.0723275" version="1"/>
+	<node id="7464679448" lat="4.7118097" lon="-74.072264" version="1"/>
+	<node id="7592884291" lat="4.7107301" lon="-74.0696365" version="1"/>
+	<node id="7593966852" lat="4.712987" lon="-74.0726794" version="1">
+		<tag k="crossing" v="marked"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="7593966853" lat="4.7122653" lon="-74.0725221" version="1"/>
+	<node id="7593966854" lat="4.7117937" lon="-74.0724352" version="1"/>
+	<node id="7593966855" lat="4.7113946" lon="-74.0723472" version="1"/>
+	<node id="7593966856" lat="4.7113322" lon="-74.0723681" version="1"/>
+	<node id="7593966857" lat="4.711273" lon="-74.0724042" version="1"/>
+	<node id="7594165423" lat="4.7111682" lon="-74.0725019" version="1"/>
+	<node id="7594165424" lat="4.7111227" lon="-74.0725609" version="1"/>
+	<node id="7594165425" lat="4.7110826" lon="-74.0727942" version="1"/>
+	<node id="7594165426" lat="4.7110351" lon="-74.0730644" version="1"/>
+	<node id="7594165427" lat="4.7109268" lon="-74.073683" version="1"/>
+	<node id="7594165428" lat="4.7109012" lon="-74.0739138" version="1"/>
+	<node id="7594175413" lat="4.7127629" lon="-74.0726305" version="1"/>
+	<node id="7594175414" lat="4.7128363" lon="-74.072287" version="1"/>
+	<node id="7594175415" lat="4.7128995" lon="-74.0722653" version="1"/>
+	<node id="7594175416" lat="4.7125172" lon="-74.0722144" version="1"/>
+	<node id="7594175417" lat="4.7116271" lon="-74.0720374" version="1"/>
+	<node id="7594175418" lat="4.7115389" lon="-74.0719944" version="1"/>
+	<node id="7594175419" lat="4.7114346" lon="-74.0718979" version="1"/>
+	<node id="7594175420" lat="4.7114081" lon="-74.0718457" version="1"/>
+	<node id="7594175421" lat="4.7113785" lon="-74.071796" version="1"/>
+	<node id="7594175422" lat="4.7113411" lon="-74.0716163" version="1"/>
+	<node id="7594175423" lat="4.7113357" lon="-74.0714312" version="1"/>
+	<node id="7594175424" lat="4.7114052" lon="-74.0710369" version="1"/>
+	<node id="7594175425" lat="4.7114453" lon="-74.0708035" version="1"/>
+	<node id="7594175426" lat="4.7115068" lon="-74.0706721" version="1"/>
+	<node id="7594175427" lat="4.711611" lon="-74.0705729" version="1"/>
+	<node id="7594175428" lat="4.7116966" lon="-74.0705273" version="1"/>
+	<node id="7594175429" lat="4.7128989" lon="-74.0704341" version="1"/>
+	<node id="7594175430" lat="4.7107173" lon="-74.0723334" version="1"/>
+	<node id="7594175431" lat="4.7107719" lon="-74.0716189" version="1"/>
+	<node id="7594175432" lat="4.7108348" lon="-74.0715354" version="1"/>
+	<node id="7594175433" lat="4.710909" lon="-74.071382" version="1"/>
+	<node id="7594175434" lat="4.7109607" lon="-74.0713211" version="1"/>
+	<node id="7594175435" lat="4.7109691" lon="-74.0712267" version="1"/>
+	<node id="7594175436" lat="4.7109904" lon="-74.0710964" version="1"/>
+	<node id="7594175437" lat="4.7110214" lon="-74.0708936" version="1"/>
+	<node id="7594175438" lat="4.7110512" lon="-74.0706795" version="1"/>
+	<node id="7594175440" lat="4.7104837" lon="-74.0747568" version="1"/>
+	<node id="7594175441" lat="4.7105894" lon="-74.0740464" version="1"/>
+	<node id="7594175442" lat="4.7106905" lon="-74.0733449" version="1"/>
+	<node id="7594175443" lat="4.7108097" lon="-74.0726029" version="1"/>
+	<node id="7594175444" lat="4.7108254" lon="-74.0725239" version="1"/>
+	<node id="7594175445" lat="4.7107894" lon="-74.0724472" version="1"/>
+	<node id="7594175446" lat="4.7107445" lon="-74.0723818" version="1"/>
+	<node id="7594175447" lat="4.7105624" lon="-74.0721833" version="1"/>
+	<node id="7594175448" lat="4.7105287" lon="-74.0721518" version="1"/>
+	<node id="7594175449" lat="4.7101427" lon="-74.0720682" version="1"/>
+	<node id="7594200227" lat="4.7099408" lon="-74.0720256" version="1"/>
+	<node id="7594200228" lat="4.7096102" lon="-74.0719682" version="1"/>
+	<node id="7594200229" lat="4.7092605" lon="-74.0718916" version="1"/>
+	<node id="7631297515" lat="4.7110962" lon="-74.0704244" version="1"/>
+	<node id="7631297516" lat="4.7111187" lon="-74.0701473" version="1"/>
+	<node id="7631297517" lat="4.711113" lon="-74.0697073" version="1"/>
+	<node id="7631297518" lat="4.7110695" lon="-74.0692749" version="1"/>
+	<node id="7631297529" lat="4.7115633" lon="-74.0706184" version="1"/>
+	<node id="7631297530" lat="4.7115681" lon="-74.0705188" version="1"/>
+	<node id="7631297531" lat="4.7116002" lon="-74.0704142" version="1"/>
+	<node id="7631297532" lat="4.7115822" lon="-74.0704728" version="1">
+		<tag k="crossing" v="marked"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="7631297533" lat="4.7115668" lon="-74.0705465" version="1">
+		<tag k="crossing" v="marked"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="7631297534" lat="4.7116082" lon="-74.0702532" version="1"/>
+	<node id="7631297535" lat="4.711667" lon="-74.0701674" version="1"/>
+	<node id="7631297536" lat="4.7116378" lon="-74.07021" version="1">
+		<tag k="crossing" v="unmarked"/>
+		<tag k="highway" v="crossing"/>
+	</node>
+	<node id="7631297537" lat="4.7116334" lon="-74.0701328" version="1"/>
+	<node id="7631297538" lat="4.711554" lon="-74.0699867" version="1"/>
+	<node id="7631297539" lat="4.7115218" lon="-74.0699279" version="1"/>
+	<node id="7631297540" lat="4.7115029" lon="-74.0697307" version="1"/>
+	<node id="7631297541" lat="4.7114746" lon="-74.0694652" version="1"/>
+	<node id="7631297542" lat="4.71145" lon="-74.069321" version="1"/>
+	<node id="7631297543" lat="4.7113574" lon="-74.0690119" version="1"/>
+	<node id="7851756669" lat="4.712771" lon="-74.0724662" version="1"/>
+	<node id="7851756670" lat="4.7102382" lon="-74.0719204" version="1"/>
+	<node id="7851756671" lat="4.7097838" lon="-74.0718372" version="1"/>
+	<node id="7851756672" lat="4.709999" lon="-74.0718748" version="1"/>
+	<node id="7851756673" lat="4.7092545" lon="-74.07175" version="1"/>
+	<node id="7851768805" lat="4.7124677" lon="-74.0723978" version="1"/>
+	<node id="7851768806" lat="4.7114145" lon="-74.0721833" version="1"/>
+	<node id="7851768807" lat="4.7105951" lon="-74.0719942" version="1"/>
+	<node id="7851768808" lat="4.7095459" lon="-74.0718024" version="1"/>
+	<way id="28124767" version="1">
+		<nd ref="308905160"/>
+		<nd ref="4069739876"/>
+		<nd ref="6070060630"/>
+		<nd ref="5720901495"/>
+		<nd ref="858825035"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="name" v="Calle 127D"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="28288940" version="1">
+		<nd ref="310653048"/>
+		<nd ref="474831073"/>
+		<nd ref="310653051"/>
+		<nd ref="310653052"/>
+		<nd ref="5593291651"/>
+		<nd ref="474831072"/>
+		<nd ref="474831069"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="2"/>
+		<tag k="name" v="Calle 126"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="28357062" version="1">
+		<nd ref="268262591"/>
+		<nd ref="476032167"/>
+		<nd ref="6070215327"/>
+		<nd ref="5401630366"/>
+		<nd ref="6070215328"/>
+		<nd ref="311437895"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="Carrera 58"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="28761897" version="1">
+		<nd ref="316229309"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="2"/>
+		<tag k="maxspeed" v="30"/>
+		<tag k="name" v="Carrera 70G"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="28761915" version="1">
+		<nd ref="316229418"/>
+		<nd ref="308905192"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="2"/>
+		<tag k="name" v="Carrera 70F"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="28773305" version="1">
+		<nd ref="316373710"/>
+		<nd ref="6974175694"/>
+		<nd ref="316373711"/>
+		<tag k="highway" v="service"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="28773307" version="1">
+		<nd ref="316373711"/>
+		<nd ref="316373715"/>
+		<tag k="highway" v="service"/>
+		<tag k="surface" v="concrete"/>
+	</way>
+	<way id="28773322" version="1">
+		<nd ref="316373817"/>
+		<nd ref="6974157556"/>
+		<tag k="highway" v="service"/>
+		<tag k="surface" v="concrete"/>
+	</way>
+	<way id="28773324" version="1">
+		<nd ref="316373821"/>
+		<tag k="highway" v="service"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="32575655" version="1">
+		<nd ref="858815853"/>
+		<nd ref="858815801"/>
+		<nd ref="858815640"/>
+		<nd ref="858815595"/>
+		<nd ref="858815695"/>
+		<nd ref="858815728"/>
+		<nd ref="858815809"/>
+		<nd ref="858815613"/>
+		<nd ref="858815782"/>
+		<nd ref="858815587"/>
+		<nd ref="858815879"/>
+		<nd ref="1998849954"/>
+		<nd ref="1998849956"/>
+		<nd ref="1998849955"/>
+		<nd ref="1998849953"/>
+		<nd ref="5583868419"/>
+		<nd ref="5583868420"/>
+		<nd ref="5583868521"/>
+		<nd ref="5583868522"/>
+		<nd ref="5583868523"/>
+		<nd ref="858815681"/>
+		<nd ref="858815593"/>
+		<nd ref="858815845"/>
+		<nd ref="858815714"/>
+		<nd ref="858815659"/>
+		<nd ref="5583868526"/>
+		<nd ref="5583868525"/>
+		<nd ref="5583868524"/>
+		<nd ref="858815720"/>
+		<nd ref="858815685"/>
+		<nd ref="932468525"/>
+		<nd ref="5583868527"/>
+		<nd ref="6070060662"/>
+		<nd ref="858815829"/>
+		<nd ref="858815853"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="Bulevar Niza"/>
+		<tag k="shop" v="mall"/>
+	</way>
+	<way id="32575664" version="1">
+		<nd ref="858745409"/>
+		<nd ref="858745567"/>
+		<nd ref="858745386"/>
+		<nd ref="858745513"/>
+		<nd ref="858745414"/>
+		<nd ref="858745525"/>
+		<nd ref="2317879721"/>
+		<nd ref="2317879718"/>
+		<nd ref="858745392"/>
+		<nd ref="858745570"/>
+		<nd ref="2317879717"/>
+		<nd ref="2317879716"/>
+		<nd ref="2317879719"/>
+		<nd ref="2317879720"/>
+		<nd ref="858745409"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="Niza"/>
+		<tag k="shop" v="mall"/>
+	</way>
+	<way id="39611010" version="1">
+		<nd ref="474828494"/>
+		<nd ref="6070060656"/>
+		<nd ref="6587082832"/>
+		<nd ref="476032168"/>
+		<nd ref="726333495"/>
+		<nd ref="474828495"/>
+		<nd ref="5583868414"/>
+		<nd ref="5401630361"/>
+		<nd ref="474828496"/>
+		<tag k="highway" v="primary_link"/>
+		<tag k="lanes" v="1"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="sidewalk" v="separate"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="39611011" version="1">
+		<nd ref="474828497"/>
+		<nd ref="6070060655"/>
+		<nd ref="474828498"/>
+		<nd ref="5101582902"/>
+		<nd ref="3881271970"/>
+		<nd ref="474828499"/>
+		<tag k="destination" v="Avenida Suba"/>
+		<tag k="highway" v="primary_link"/>
+		<tag k="lanes" v="1"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="sidewalk" v="separate"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="39611128" version="1">
+		<nd ref="474831063"/>
+		<nd ref="6070060654"/>
+		<nd ref="6070060653"/>
+		<nd ref="4913735021"/>
+		<nd ref="5583868374"/>
+		<nd ref="474831064"/>
+		<nd ref="6070060652"/>
+		<tag k="highway" v="primary_link"/>
+		<tag k="lanes" v="1"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="sidewalk" v="separate"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="39611129" version="1">
+		<nd ref="474831066"/>
+		<nd ref="5583868417"/>
+		<nd ref="6070060660"/>
+		<nd ref="598579600"/>
+		<nd ref="4913735025"/>
+		<nd ref="5583868418"/>
+		<nd ref="474831067"/>
+		<nd ref="6070060661"/>
+		<nd ref="474831068"/>
+		<tag k="highway" v="primary_link"/>
+		<tag k="lanes" v="1"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="sidewalk" v="separate"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="39611130" version="1">
+		<nd ref="1774269045"/>
+		<nd ref="474831072"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="2"/>
+		<tag k="name" v="Carrera 70B"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="39611131" version="1">
+		<nd ref="474831073"/>
+		<nd ref="1774269043"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="2"/>
+		<tag k="name" v="Carrera 70F"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="39703506" version="1">
+		<nd ref="316231949"/>
+		<nd ref="5728353525"/>
+		<nd ref="858745401"/>
+		<nd ref="858745560"/>
+		<nd ref="316232009"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="2"/>
+		<tag k="name" v="Carrera 70D"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="40593561" version="1">
+		<nd ref="308905191"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="2"/>
+		<tag k="name" v="Carrera 70C"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="40593564" version="1">
+		<nd ref="492866940"/>
+		<nd ref="492866942"/>
+		<nd ref="492866945"/>
+		<nd ref="492866946"/>
+		<nd ref="492866940"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="parking" v="surface"/>
+	</way>
+	<way id="46884240" version="1">
+		<nd ref="598587478"/>
+		<nd ref="5583856533"/>
+		<nd ref="5583856529"/>
+		<nd ref="5583856530"/>
+		<nd ref="5583856531"/>
+		<nd ref="5583856532"/>
+		<nd ref="724307162"/>
+		<nd ref="5583856538"/>
+		<nd ref="310104564"/>
+		<tag k="highway" v="primary_link"/>
+		<tag k="lanes" v="1"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="58424944" version="1">
+		<nd ref="724307185"/>
+		<nd ref="724307157"/>
+		<nd ref="724307201"/>
+		<nd ref="724307164"/>
+		<nd ref="5583868556"/>
+		<nd ref="334640779"/>
+		<nd ref="724307205"/>
+		<nd ref="724307174"/>
+		<nd ref="474831076"/>
+		<nd ref="6070060644"/>
+		<nd ref="726333517"/>
+		<nd ref="724307153"/>
+		<nd ref="834658928"/>
+		<nd ref="834658927"/>
+		<nd ref="724307195"/>
+		<nd ref="5583868405"/>
+		<nd ref="724307178"/>
+		<nd ref="724307203"/>
+		<nd ref="5583856539"/>
+		<nd ref="724307180"/>
+		<nd ref="724307209"/>
+		<nd ref="724307184"/>
+		<nd ref="724307162"/>
+		<tag k="highway" v="cycleway"/>
+	</way>
+	<way id="72271884" version="1">
+		<nd ref="858706962"/>
+		<nd ref="858707118"/>
+		<tag k="highway" v="service"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="72271893" version="1">
+		<nd ref="858706970"/>
+		<tag k="highway" v="service"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="72271899" version="1">
+		<nd ref="858706981"/>
+		<nd ref="858707023"/>
+		<nd ref="858707096"/>
+		<tag k="highway" v="service"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="72271901" version="1">
+		<nd ref="858706987"/>
+		<nd ref="6070060676"/>
+		<tag k="building" v="yes"/>
+	</way>
+	<way id="72271905" version="1">
+		<nd ref="858707136"/>
+		<nd ref="858707085"/>
+		<tag k="highway" v="service"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="72271906" version="1">
+		<nd ref="858707042"/>
+		<nd ref="858706981"/>
+		<tag k="highway" v="service"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="72271915" version="1">
+		<nd ref="858707118"/>
+		<tag k="highway" v="service"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="72271917" version="1">
+		<nd ref="858707105"/>
+		<nd ref="858707059"/>
+		<tag k="highway" v="service"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="72271923" version="1">
+		<nd ref="858707156"/>
+		<nd ref="858707027"/>
+		<tag k="highway" v="service"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="72271926" version="1">
+		<nd ref="858707056"/>
+		<nd ref="858707184"/>
+		<nd ref="858707027"/>
+		<tag k="highway" v="service"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="72271927" version="1">
+		<nd ref="858707193"/>
+		<nd ref="858707133"/>
+		<tag k="highway" v="service"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="72271930" version="1">
+		<nd ref="858706965"/>
+		<nd ref="858707120"/>
+		<tag k="highway" v="service"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="72271934" version="1">
+		<nd ref="858707133"/>
+		<nd ref="858706969"/>
+		<nd ref="858707116"/>
+		<tag k="highway" v="service"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="72271935" version="1">
+		<nd ref="858707059"/>
+		<nd ref="311437898"/>
+		<tag k="highway" v="service"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="72271946" version="1">
+		<nd ref="858707085"/>
+		<nd ref="858707173"/>
+		<tag k="highway" v="service"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="72271949" version="1">
+		<nd ref="858707120"/>
+		<nd ref="311437896"/>
+		<tag k="highway" v="service"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="72272673" version="1">
+		<nd ref="858745456"/>
+		<nd ref="7594165426"/>
+		<nd ref="5583868371"/>
+		<nd ref="858745577"/>
+		<nd ref="5583868372"/>
+		<nd ref="858745440"/>
+		<nd ref="858745530"/>
+		<nd ref="7594165427"/>
+		<nd ref="858745396"/>
+		<tag k="highway" v="service"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="service" v="parking_aisle"/>
+	</way>
+	<way id="72272674" version="1">
+		<nd ref="858745507"/>
+		<nd ref="7593966853"/>
+		<nd ref="4069739878"/>
+		<nd ref="4913731515"/>
+		<nd ref="6070060640"/>
+		<nd ref="858745405"/>
+		<nd ref="858745465"/>
+		<nd ref="858745462"/>
+		<nd ref="858745560"/>
+		<tag k="highway" v="service"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="service" v="parking_aisle"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="72272675" version="1">
+		<nd ref="858745364"/>
+		<nd ref="858745520"/>
+		<nd ref="858745350"/>
+		<nd ref="858745465"/>
+		<tag k="highway" v="service"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="service" v="parking_aisle"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="72272676" version="1">
+		<nd ref="858745498"/>
+		<nd ref="858745588"/>
+		<nd ref="858745444"/>
+		<nd ref="858745563"/>
+		<nd ref="858745498"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="72272677" version="1">
+		<nd ref="858745462"/>
+		<nd ref="858745356"/>
+		<nd ref="858745449"/>
+		<nd ref="858745586"/>
+		<tag k="highway" v="service"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="service" v="parking_aisle"/>
+	</way>
+	<way id="72272678" version="1">
+		<nd ref="858745401"/>
+		<nd ref="858745586"/>
+		<nd ref="858745364"/>
+		<nd ref="858745467"/>
+		<nd ref="6070060642"/>
+		<nd ref="6070060641"/>
+		<nd ref="4069739877"/>
+		<nd ref="7593966854"/>
+		<nd ref="858745371"/>
+		<tag k="highway" v="service"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="service" v="parking_aisle"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="72275179" version="1">
+		<nd ref="307756838"/>
+		<nd ref="5583868529"/>
+		<nd ref="6070215325"/>
+		<nd ref="7631297533"/>
+		<nd ref="858815663"/>
+		<nd ref="5401630371"/>
+		<nd ref="5583868528"/>
+		<nd ref="858815777"/>
+		<tag k="highway" v="primary_link"/>
+		<tag k="lanes" v="1"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="sidewalk" v="separate"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="72275180" version="1">
+		<nd ref="5150090961"/>
+		<nd ref="858815774"/>
+		<nd ref="307756835"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="lanes" v="1"/>
+		<tag k="name" v="Calle 127D"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="79879808" version="1">
+		<nd ref="932468529"/>
+		<nd ref="932468522"/>
+		<tag k="highway" v="steps"/>
+		<tag k="surface" v="concrete"/>
+	</way>
+	<way id="79879810" version="1">
+		<nd ref="932468528"/>
+		<nd ref="932468529"/>
+		<nd ref="932468525"/>
+		<tag k="bridge" v="yes"/>
+		<tag k="highway" v="footway"/>
+		<tag k="layer" v="1"/>
+	</way>
+	<way id="90000204" version="1">
+		<nd ref="858706981"/>
+		<nd ref="858707091"/>
+		<tag k="highway" v="service"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="90000211" version="1">
+		<nd ref="311437898"/>
+		<nd ref="858707056"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="Carrera 58"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="90000223" version="1">
+		<nd ref="308905160"/>
+		<tag k="alt_name" v="Avenida Suba;Avenida Alfredo D Bateman"/>
+		<tag k="foot" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="maxspeed" v="60"/>
+		<tag k="name" v="Transversal 60"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="sidewalk" v="separate"/>
+		<tag k="surface" v="concrete"/>
+	</way>
+	<way id="90000238" version="1">
+		<nd ref="858707118"/>
+		<tag k="highway" v="service"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="90000242" version="1">
+		<nd ref="858707096"/>
+		<nd ref="311437898"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="Carrera 58"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="90000249" version="1">
+		<nd ref="726333494"/>
+		<nd ref="726333503"/>
+		<nd ref="726333492"/>
+		<nd ref="726333526"/>
+		<nd ref="726333454"/>
+		<nd ref="726333534"/>
+		<nd ref="726333497"/>
+		<nd ref="6070061693"/>
+		<nd ref="726333483"/>
+		<nd ref="6070061692"/>
+		<nd ref="726333519"/>
+		<nd ref="726333495"/>
+		<nd ref="726333501"/>
+		<nd ref="6070060651"/>
+		<nd ref="5583868412"/>
+		<nd ref="726333477"/>
+		<nd ref="726333517"/>
+		<tag k="highway" v="cycleway"/>
+	</way>
+	<way id="90000255" version="1">
+		<nd ref="858707133"/>
+		<nd ref="858706999"/>
+		<tag k="highway" v="service"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="90000270" version="1">
+		<nd ref="858706985"/>
+		<tag k="highway" v="service"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="90000281" version="1">
+		<nd ref="858707173"/>
+		<nd ref="311437899"/>
+		<nd ref="858707116"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="Carrera 58"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="90000325" version="1">
+		<nd ref="858707116"/>
+		<nd ref="858706970"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="Carrera 58"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="90000403" version="1">
+		<nd ref="308905190"/>
+		<nd ref="4913723098"/>
+		<nd ref="858745507"/>
+		<nd ref="858745371"/>
+		<nd ref="6070060646"/>
+		<nd ref="474831063"/>
+		<nd ref="255476400"/>
+		<nd ref="381991485"/>
+		<tag k="alt_name" v="Avenida Suba;Avenida Alfredo D Bateman"/>
+		<tag k="foot" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="name" v="Transversal 60"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="sidewalk" v="separate"/>
+		<tag k="surface" v="concrete"/>
+	</way>
+	<way id="90000406" version="1">
+		<nd ref="858706985"/>
+		<nd ref="858707124"/>
+		<tag k="highway" v="service"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="90000410" version="1">
+		<nd ref="310104565"/>
+		<nd ref="726333477"/>
+		<nd ref="6070061694"/>
+		<nd ref="5583868375"/>
+		<nd ref="474828496"/>
+		<nd ref="6070060657"/>
+		<nd ref="932468526"/>
+		<nd ref="268262591"/>
+		<nd ref="5401630364"/>
+		<nd ref="5583868533"/>
+		<nd ref="5401630365"/>
+		<nd ref="5583868534"/>
+		<nd ref="268262592"/>
+		<nd ref="5583868557"/>
+		<nd ref="268262593"/>
+		<tag k="addr:city" v="Bogotá D.C."/>
+		<tag k="alt_name" v="Avenida Rodrigo Lara Bonilla"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="name" v="Avenida Calle 127"/>
+		<tag k="official_name" v="Avenida Rodrigo Lara Bonilla"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="AC 127"/>
+		<tag k="sidewalk" v="separate"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="90000456" version="1">
+		<nd ref="858707027"/>
+		<nd ref="858706951"/>
+		<tag k="highway" v="service"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="90000472" version="1">
+		<nd ref="858707056"/>
+		<nd ref="858707173"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="Carrera 58"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="90000582" version="1">
+		<nd ref="262390975"/>
+		<nd ref="2428041081"/>
+		<nd ref="474828494"/>
+		<nd ref="5583868411"/>
+		<nd ref="310104565"/>
+		<tag k="alt_name" v="Avenida Suba;Avenida Alfredo D Bateman"/>
+		<tag k="foot" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="maxspeed" v="60"/>
+		<tag k="name" v="Transversal 60"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="sidewalk" v="separate"/>
+	</way>
+	<way id="90000622" version="1">
+		<nd ref="858707059"/>
+		<nd ref="858707162"/>
+		<tag k="highway" v="service"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="90000650" version="1">
+		<nd ref="858706970"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="Calle 125B"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="90000653" version="1">
+		<nd ref="858707085"/>
+		<nd ref="858707202"/>
+		<tag k="highway" v="service"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="90000844" version="1">
+		<nd ref="6070060652"/>
+		<nd ref="474831065"/>
+		<nd ref="858745456"/>
+		<nd ref="3864369063"/>
+		<nd ref="858745396"/>
+		<nd ref="316231973"/>
+		<nd ref="598587478"/>
+		<nd ref="5583856536"/>
+		<tag k="addr:city" v="Bogotá D.C."/>
+		<tag k="alt_name" v="Avenida Rodrigo Lara Bonilla"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="name" v="Avenida Calle 127"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="AC 127"/>
+		<tag k="sidewalk" v="separate"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="90000869" version="1">
+		<nd ref="5583868560"/>
+		<nd ref="268262466"/>
+		<nd ref="5583868559"/>
+		<nd ref="268262467"/>
+		<nd ref="476032166"/>
+		<tag k="alt_name" v="Avenida Rodrigo Lara Bonilla"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="name" v="Avenida Calle 127"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="90000896" version="1">
+		<nd ref="311437896"/>
+		<nd ref="858707096"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="Carrera 58"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="90000904" version="1">
+		<nd ref="858707120"/>
+		<nd ref="858707034"/>
+		<tag k="highway" v="service"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="90000910" version="1">
+		<nd ref="310104564"/>
+		<nd ref="5583856537"/>
+		<nd ref="316231993"/>
+		<nd ref="3881271971"/>
+		<nd ref="6587082833"/>
+		<nd ref="474828497"/>
+		<nd ref="5583868406"/>
+		<nd ref="5401630369"/>
+		<tag k="addr:city" v="Bogotá D.C."/>
+		<tag k="alt_name" v="Avenida Rodrigo Lara Bonilla"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="name" v="Avenida Calle 127"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="AC 127"/>
+		<tag k="sidewalk" v="separate"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="90032451" version="1">
+		<nd ref="5583868416"/>
+		<nd ref="474831066"/>
+		<nd ref="5583868555"/>
+		<nd ref="6070060643"/>
+		<nd ref="4913735033"/>
+		<nd ref="262390974"/>
+		<tag k="addr:city" v="Bogotá D.C."/>
+		<tag k="alt_name" v="Avenida Rodrigo Lara Bonilla"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="name" v="Avenida Calle 127"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="AC 127"/>
+		<tag k="sidewalk" v="separate"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="90032499" version="1">
+		<nd ref="316373715"/>
+		<tag k="addr:street" v="Carrera 58"/>
+		<tag k="alt_name" v="Avenida Villas"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="name" v="Avenida Carrera 58"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="90032503" version="1">
+		<nd ref="316373711"/>
+		<nd ref="6069909145"/>
+		<nd ref="6069909146"/>
+		<nd ref="316373713"/>
+		<nd ref="6069909147"/>
+		<nd ref="316373701"/>
+		<tag k="highway" v="service"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="90032773" version="1">
+		<nd ref="476032166"/>
+		<nd ref="268262468"/>
+		<nd ref="268262469"/>
+		<nd ref="310712481"/>
+		<tag k="addr:city" v="Bogotá D.C."/>
+		<tag k="alt_name" v="Avenida Rodrigo Lara Bonilla"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="name" v="Avenida Calle 127"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="AC 127"/>
+		<tag k="sidewalk" v="separate"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="91023687" version="1">
+		<nd ref="308905190"/>
+		<nd ref="7593966852"/>
+		<nd ref="308905191"/>
+		<nd ref="316232009"/>
+		<nd ref="308905192"/>
+		<nd ref="316229309"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="maxspeed" v="30"/>
+		<tag k="name" v="Calle 127D"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="91023764" version="1">
+		<nd ref="316231949"/>
+		<nd ref="316229418"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="2"/>
+		<tag k="name" v="Calle 127A"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="91023817" version="1">
+		<nd ref="475207416"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="2"/>
+		<tag k="name" v="Carrera 70C"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="123832981" version="1">
+		<nd ref="6070060676"/>
+		<nd ref="858706987"/>
+		<nd ref="6070060676"/>
+		<tag k="landuse" v="commercial"/>
+		<tag k="name" v="Centro Comercial Bahía 122"/>
+		<tag k="shop" v="mall"/>
+	</way>
+	<way id="165919126" version="1">
+		<nd ref="1774269045"/>
+		<nd ref="1774269044"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="Calle 125B"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="165919127" version="1">
+		<nd ref="1774269043"/>
+		<nd ref="1774269042"/>
+		<tag k="highway" v="footway"/>
+		<tag k="name" v="Calle 125B"/>
+	</way>
+	<way id="165919130" version="1">
+		<nd ref="1774269066"/>
+		<nd ref="1774269039"/>
+		<nd ref="1774269038"/>
+		<nd ref="1774269031"/>
+		<nd ref="1774269032"/>
+		<nd ref="1774269027"/>
+		<nd ref="1774269040"/>
+		<nd ref="1774269051"/>
+		<nd ref="1774269053"/>
+		<nd ref="1774269068"/>
+		<nd ref="1774269066"/>
+		<tag k="leisure" v="park"/>
+		<tag k="source" v="Bing"/>
+	</way>
+	<way id="165919132" version="1">
+		<nd ref="1774269024"/>
+		<nd ref="1774269023"/>
+		<nd ref="1774269055"/>
+		<nd ref="1774269057"/>
+		<nd ref="1774269026"/>
+		<nd ref="1774269028"/>
+		<nd ref="1774269042"/>
+		<nd ref="1774269046"/>
+		<nd ref="1774269047"/>
+		<nd ref="1774269048"/>
+		<nd ref="1774269049"/>
+		<nd ref="1774269058"/>
+		<nd ref="1774269059"/>
+		<nd ref="1774269061"/>
+		<nd ref="1774269060"/>
+		<nd ref="1774269024"/>
+		<tag k="leisure" v="park"/>
+		<tag k="source" v="Bing"/>
+	</way>
+	<way id="189234801" version="1">
+		<nd ref="2428041082"/>
+		<nd ref="2428041083"/>
+		<nd ref="6070060650"/>
+		<nd ref="5583868410"/>
+		<nd ref="381981250"/>
+		<nd ref="834658928"/>
+		<nd ref="381981205"/>
+		<nd ref="6587082835"/>
+		<nd ref="6070060649"/>
+		<nd ref="4913735029"/>
+		<nd ref="4913735028"/>
+		<nd ref="885733663"/>
+		<tag k="access" v="no"/>
+		<tag k="bus" v="yes"/>
+		<tag k="highway" v="service"/>
+		<tag k="name" v="TransMilenio"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="189239823" version="1">
+		<nd ref="6070060630"/>
+		<tag k="highway" v="cycleway"/>
+	</way>
+	<way id="383220914" version="1">
+		<nd ref="3864369177"/>
+		<nd ref="3864369175"/>
+		<nd ref="3864369176"/>
+		<nd ref="3864369178"/>
+		<nd ref="3864369177"/>
+		<tag k="bench" v="yes"/>
+		<tag k="highway" v="bus_stop"/>
+		<tag k="name" v="Centro Comercial Bulevar Niza"/>
+		<tag k="network" v="co:dc:sitp"/>
+		<tag k="operator" v="SITP"/>
+		<tag k="public_transport" v="platform"/>
+		<tag k="ref:sitp" v="007A02"/>
+		<tag k="shelter" v="yes"/>
+		<tag k="source" v="BogoMap"/>
+	</way>
+	<way id="383220916" version="1">
+		<nd ref="3864369163"/>
+		<nd ref="3864369161"/>
+		<nd ref="3864369162"/>
+		<nd ref="3864369164"/>
+		<nd ref="3864369163"/>
+		<tag k="bench" v="yes"/>
+		<tag k="highway" v="bus_stop"/>
+		<tag k="name" v="Centro Comercial Niza"/>
+		<tag k="network" v="co:dc:sitp"/>
+		<tag k="operator" v="SITP"/>
+		<tag k="public_transport" v="platform"/>
+		<tag k="ref:sitp" v="183A03"/>
+		<tag k="shelter" v="yes"/>
+		<tag k="source" v="BogoMap"/>
+	</way>
+	<way id="404662937" version="1">
+		<nd ref="4069368780"/>
+		<nd ref="4069368781"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="404662938" version="1">
+		<nd ref="4069368782"/>
+		<nd ref="4913731520"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="404701442" version="1">
+		<nd ref="7594175413"/>
+		<nd ref="4913723098"/>
+		<nd ref="885733641"/>
+		<nd ref="4069368781"/>
+		<nd ref="885733663"/>
+		<nd ref="308905160"/>
+		<nd ref="7594175414"/>
+		<tag k="crossing" v="marked"/>
+		<tag k="footway" v="crossing"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="500276462" version="1">
+		<nd ref="4913731516"/>
+		<nd ref="4069368780"/>
+		<nd ref="4913731517"/>
+		<nd ref="4913731518"/>
+		<nd ref="4069368782"/>
+		<nd ref="4913731519"/>
+		<nd ref="4913731516"/>
+		<tag k="amenity" v="bus_station"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="Niza - Calle 127"/>
+	</way>
+	<way id="500276463" version="1">
+		<nd ref="4913735021"/>
+		<nd ref="4913735022"/>
+		<tag k="crossing" v="marked"/>
+		<tag k="footway" v="crossing"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="529798589" version="1">
+		<nd ref="5146066263"/>
+		<nd ref="5146066264"/>
+		<nd ref="5146066265"/>
+		<nd ref="5146066266"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="Ultra Car"/>
+		<tag k="shop" v="car"/>
+		<tag k="source" v="Kaart Ground Survey 2017"/>
+	</way>
+	<way id="529798592" version="1">
+		<nd ref="5146066265"/>
+		<nd ref="5146066266"/>
+		<nd ref="5146066268"/>
+		<nd ref="5146066269"/>
+		<nd ref="5146066270"/>
+		<nd ref="5146066265"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="Bici Tienda 127"/>
+		<tag k="shop" v="bicycle"/>
+		<tag k="source" v="Kaart Ground Survey 2017"/>
+	</way>
+	<way id="529798594" version="1">
+		<nd ref="5146066271"/>
+		<nd ref="5146066272"/>
+		<nd ref="5146066273"/>
+		<nd ref="5146066274"/>
+		<nd ref="5146066271"/>
+		<tag k="amenity" v="post_office"/>
+		<tag k="brand" v="DHL"/>
+		<tag k="brand:wikidata" v="Q489815"/>
+		<tag k="brand:wikipedia" v="en:DHL"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="DHL"/>
+		<tag k="source" v="Kaart Ground Survey 2017"/>
+	</way>
+	<way id="529798596" version="1">
+		<nd ref="5146066275"/>
+		<nd ref="5146066276"/>
+		<nd ref="5146066277"/>
+		<nd ref="5146066279"/>
+		<nd ref="5146066278"/>
+		<nd ref="5146066275"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="Derco Center"/>
+		<tag k="shop" v="car"/>
+		<tag k="source" v="Kaart Ground Survey 2017"/>
+	</way>
+	<way id="529798598" version="1">
+		<nd ref="5146066278"/>
+		<nd ref="5146066279"/>
+		<nd ref="5146066280"/>
+		<nd ref="5146066281"/>
+		<nd ref="5146066282"/>
+		<nd ref="5146066278"/>
+		<tag k="building" v="residential"/>
+		<tag k="source" v="Kaart Ground Survey 2017"/>
+	</way>
+	<way id="529801612" version="1">
+		<nd ref="5146089945"/>
+		<nd ref="5146089946"/>
+		<nd ref="5146089947"/>
+		<nd ref="5146089948"/>
+		<nd ref="5146089945"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="Tiendas D1"/>
+		<tag k="shop" v="supermarket"/>
+		<tag k="source" v="Kaart Ground Survey 2017"/>
+	</way>
+	<way id="529801614" version="1">
+		<nd ref="5146089948"/>
+		<nd ref="5146089947"/>
+		<nd ref="5146089949"/>
+		<nd ref="5146089951"/>
+		<nd ref="5146089950"/>
+		<nd ref="5146089948"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="Civetchi"/>
+		<tag k="shop" v="car"/>
+		<tag k="source" v="Kaart Ground Survey 2017"/>
+	</way>
+	<way id="529801616" version="1">
+		<nd ref="5146089950"/>
+		<nd ref="5146089951"/>
+		<nd ref="5146089952"/>
+		<nd ref="5146089958"/>
+		<nd ref="5146089957"/>
+		<nd ref="5146089953"/>
+		<nd ref="5146089954"/>
+		<nd ref="5146089955"/>
+		<nd ref="5146089956"/>
+		<nd ref="5146089950"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="Porvenir"/>
+		<tag k="office" v="company"/>
+		<tag k="source" v="Kaart Ground Survey 2017"/>
+	</way>
+	<way id="529801619" version="1">
+		<nd ref="5146089957"/>
+		<nd ref="5146089958"/>
+		<nd ref="5146089959"/>
+		<nd ref="5146089963"/>
+		<nd ref="5146089960"/>
+		<nd ref="5146089961"/>
+		<nd ref="5146089962"/>
+		<nd ref="5146089957"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="Grupo Alpha"/>
+		<tag k="source" v="Kaart Ground Survey 2017"/>
+	</way>
+	<way id="529801621" version="1">
+		<nd ref="5146089960"/>
+		<nd ref="5146089963"/>
+		<nd ref="5146089964"/>
+		<nd ref="5146089968"/>
+		<nd ref="5146089967"/>
+		<nd ref="5146089965"/>
+		<nd ref="5146089966"/>
+		<nd ref="5146089960"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="Centro de Atencion al Usuario"/>
+		<tag k="office" v="company"/>
+		<tag k="source" v="Kaart Ground Survey 2017"/>
+	</way>
+	<way id="529801623" version="1">
+		<nd ref="5146089967"/>
+		<nd ref="5146089968"/>
+		<nd ref="5146089969"/>
+		<nd ref="5146089970"/>
+		<nd ref="5146089967"/>
+		<tag k="building" v="residential"/>
+		<tag k="source" v="Kaart Ground Survey 2017"/>
+	</way>
+	<way id="529801624" version="1">
+		<nd ref="5146089970"/>
+		<nd ref="5146089969"/>
+		<nd ref="5146089972"/>
+		<nd ref="5146089973"/>
+		<nd ref="5146089974"/>
+		<nd ref="5146089970"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="Estra"/>
+		<tag k="office" v="company"/>
+		<tag k="source" v="Kaart Ground Survey 2017"/>
+	</way>
+	<way id="529801626" version="1">
+		<nd ref="5146089973"/>
+		<nd ref="5146089972"/>
+		<nd ref="5146089975"/>
+		<nd ref="5146089976"/>
+		<nd ref="5146089977"/>
+		<nd ref="5146089978"/>
+		<nd ref="5146089979"/>
+		<nd ref="5146089973"/>
+		<tag k="building" v="retail"/>
+		<tag k="source" v="Kaart Ground Survey 2017"/>
+	</way>
+	<way id="529801628" version="1">
+		<nd ref="5146089976"/>
+		<nd ref="5146089975"/>
+		<nd ref="5146089982"/>
+		<nd ref="5146089983"/>
+		<nd ref="5146089976"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="El Santandereano"/>
+		<tag k="source" v="Kaart Ground Survey 2017"/>
+	</way>
+	<way id="529801630" version="1">
+		<nd ref="5146089983"/>
+		<nd ref="5146089982"/>
+		<nd ref="5146089984"/>
+		<nd ref="5146089985"/>
+		<nd ref="5146089983"/>
+		<tag k="building" v="retail"/>
+		<tag k="source" v="Kaart Ground Survey 2017"/>
+	</way>
+	<way id="529801632" version="1">
+		<nd ref="5146089989"/>
+		<nd ref="5146089990"/>
+		<nd ref="5146089991"/>
+		<nd ref="5146089992"/>
+		<nd ref="5146089993"/>
+		<nd ref="5146089994"/>
+		<nd ref="5146089995"/>
+		<nd ref="5146089996"/>
+		<nd ref="5146089989"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="ETB"/>
+		<tag k="office" v="telecommunication"/>
+		<tag k="source" v="Kaart Ground Survey 2017"/>
+	</way>
+	<way id="529801634" version="1">
+		<nd ref="5146089997"/>
+		<nd ref="5146089998"/>
+		<nd ref="5146089999"/>
+		<nd ref="5146090000"/>
+		<nd ref="5146089997"/>
+		<tag k="addr:street" v="Avenida Suba"/>
+		<tag k="brand" v="Škoda"/>
+		<tag k="brand:wikidata" v="Q29637"/>
+		<tag k="brand:wikipedia" v="en:Škoda Auto"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="Škoda"/>
+		<tag k="shop" v="car"/>
+		<tag k="source" v="Kaart Ground Survey 2017"/>
+	</way>
+	<way id="529801636" version="1">
+		<nd ref="5146090001"/>
+		<nd ref="5146090002"/>
+		<nd ref="5146090003"/>
+		<nd ref="5146090004"/>
+		<nd ref="5146090001"/>
+		<tag k="addr:street" v="Avenida Suba"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="Casa Cocina China"/>
+		<tag k="source" v="Kaart Ground Survey 2017"/>
+	</way>
+	<way id="529802785" version="1">
+		<nd ref="5146098153"/>
+		<nd ref="5146098160"/>
+		<nd ref="5146098153"/>
+		<tag k="addr:street" v="Avenida Suba"/>
+		<tag k="building" v="retail"/>
+		<tag k="source" v="Kaart Ground Survey 2017"/>
+	</way>
+	<way id="529802786" version="1">
+		<nd ref="5146098158"/>
+		<nd ref="5146098162"/>
+		<nd ref="5146098163"/>
+		<nd ref="5146098159"/>
+		<nd ref="5146098160"/>
+		<nd ref="5146098153"/>
+		<nd ref="5146098161"/>
+		<nd ref="5146098158"/>
+		<tag k="addr:street" v="Avenida Suba"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="Notaria 45"/>
+		<tag k="office" v="notary"/>
+		<tag k="source" v="Kaart Ground Survey 2017"/>
+	</way>
+	<way id="529802787" version="1">
+		<nd ref="5146098162"/>
+		<nd ref="5146098163"/>
+		<nd ref="5146098164"/>
+		<nd ref="5146098165"/>
+		<nd ref="5146098162"/>
+		<tag k="addr:street" v="Avenida Suba"/>
+		<tag k="building" v="retail"/>
+		<tag k="source" v="Kaart Ground Survey 2017"/>
+	</way>
+	<way id="530398553" version="1">
+		<nd ref="5150519730"/>
+		<nd ref="5150519733"/>
+		<nd ref="5150519730"/>
+		<tag k="addr:street" v="Avenida Carrera 58"/>
+		<tag k="building" v="yes"/>
+		<tag k="source" v="Kaart Ground Survey 2017"/>
+	</way>
+	<way id="560127618" version="1">
+		<nd ref="311437895"/>
+		<nd ref="5401630368"/>
+		<nd ref="311437896"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="Carrera 58"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="560127620" version="1">
+		<nd ref="311437895"/>
+		<nd ref="5401630362"/>
+		<nd ref="5401630367"/>
+		<nd ref="5401630363"/>
+		<nd ref="6070215329"/>
+		<nd ref="5401630364"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="Carrera 58"/>
+		<tag k="oneway" v="yes"/>
+	</way>
+	<way id="584110004" version="1">
+		<nd ref="5583868376"/>
+		<nd ref="5583868377"/>
+		<nd ref="5583868378"/>
+		<nd ref="5583868379"/>
+		<nd ref="5583868380"/>
+		<nd ref="5583868381"/>
+		<nd ref="5583868382"/>
+		<nd ref="5583868383"/>
+		<nd ref="5583868384"/>
+		<nd ref="5583868385"/>
+		<nd ref="5583868376"/>
+		<tag k="landuse" v="grass"/>
+	</way>
+	<way id="584110007" version="1">
+		<nd ref="4913735022"/>
+		<nd ref="5583868404"/>
+		<nd ref="5583868405"/>
+		<nd ref="5583868406"/>
+		<nd ref="5583868407"/>
+		<tag k="crossing" v="marked"/>
+		<tag k="footway" v="crossing"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="584110008" version="1">
+		<nd ref="4913735023"/>
+		<nd ref="4913735033"/>
+		<nd ref="726333517"/>
+		<tag k="crossing" v="marked"/>
+		<tag k="footway" v="crossing"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="584110009" version="1">
+		<nd ref="5101582902"/>
+		<nd ref="5583868407"/>
+		<tag k="crossing" v="marked"/>
+		<tag k="footway" v="crossing"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="584110014" version="1">
+		<nd ref="932468522"/>
+		<nd ref="7594175437"/>
+		<nd ref="932468526"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="584110016" version="1">
+		<nd ref="932468528"/>
+		<nd ref="5583868413"/>
+		<tag k="highway" v="steps"/>
+	</way>
+	<way id="584110018" version="1">
+		<nd ref="5583868535"/>
+		<nd ref="5583868536"/>
+		<nd ref="5583868537"/>
+		<nd ref="5583868538"/>
+		<nd ref="5583868539"/>
+		<nd ref="5583868540"/>
+		<nd ref="5583868541"/>
+		<nd ref="5583868542"/>
+		<nd ref="5583868543"/>
+		<nd ref="5583868544"/>
+		<nd ref="5583868545"/>
+		<nd ref="5583868546"/>
+		<nd ref="5583868547"/>
+		<nd ref="5583868535"/>
+		<tag k="landuse" v="grass"/>
+	</way>
+	<way id="584110019" version="1">
+		<nd ref="5583868548"/>
+		<nd ref="5583868549"/>
+		<nd ref="5583868550"/>
+		<nd ref="5583868551"/>
+		<nd ref="5583868552"/>
+		<nd ref="5583868553"/>
+		<nd ref="5583868554"/>
+		<nd ref="5583868548"/>
+		<tag k="landuse" v="grass"/>
+	</way>
+	<way id="584110020" version="1">
+		<nd ref="310712481"/>
+		<nd ref="5583868531"/>
+		<nd ref="4613236688"/>
+		<nd ref="334640779"/>
+		<nd ref="6070215323"/>
+		<nd ref="4613237789"/>
+		<nd ref="5583868532"/>
+		<nd ref="4613237790"/>
+		<nd ref="268262592"/>
+		<tag k="addr:street" v="Carrera 58"/>
+		<tag k="alt_name" v="Avenida Villas"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="name" v="Avenida Carrera 58"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="584114373" version="1">
+		<nd ref="5583904477"/>
+		<nd ref="5583904478"/>
+		<nd ref="5583904479"/>
+		<nd ref="5583904480"/>
+		<nd ref="5583904481"/>
+		<nd ref="5583904482"/>
+		<nd ref="5583904483"/>
+		<nd ref="5583904484"/>
+		<nd ref="5583904485"/>
+		<nd ref="5583904486"/>
+		<nd ref="5583904487"/>
+		<nd ref="5583904488"/>
+		<tag k="landuse" v="grass"/>
+	</way>
+	<way id="584488045" version="1">
+		<nd ref="5587141126"/>
+		<nd ref="5587141127"/>
+		<nd ref="5587141128"/>
+		<nd ref="5587141129"/>
+		<tag k="natural" v="tree_row"/>
+	</way>
+	<way id="584488046" version="1">
+		<nd ref="5583868407"/>
+		<nd ref="5583868408"/>
+		<nd ref="5583868409"/>
+		<nd ref="5583868410"/>
+		<nd ref="5583868411"/>
+		<nd ref="5583868412"/>
+		<tag k="crossing" v="marked"/>
+		<tag k="footway" v="crossing"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="584488047" version="1">
+		<nd ref="310104565"/>
+		<nd ref="724307153"/>
+		<nd ref="262390974"/>
+		<tag k="alt_name" v="Avenida Suba;Avenida Alfredo D Bateman"/>
+		<tag k="foot" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="maxspeed" v="60"/>
+		<tag k="name" v="Transversal 60"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="sidewalk" v="separate"/>
+	</way>
+	<way id="584488049" version="1">
+		<nd ref="885733641"/>
+		<nd ref="4913735032"/>
+		<nd ref="6070060648"/>
+		<nd ref="4913735031"/>
+		<nd ref="4069368783"/>
+		<nd ref="834658927"/>
+		<nd ref="5401630370"/>
+		<nd ref="5583868409"/>
+		<nd ref="4913735035"/>
+		<nd ref="4913735034"/>
+		<nd ref="2428041084"/>
+		<nd ref="4913735036"/>
+		<nd ref="381991520"/>
+		<tag k="access" v="no"/>
+		<tag k="bus" v="yes"/>
+		<tag k="highway" v="service"/>
+		<tag k="name" v="TransMilenio"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="psv" v="bus"/>
+		<tag k="surface" v="concrete"/>
+	</way>
+	<way id="584488052" version="1">
+		<nd ref="5401630369"/>
+		<nd ref="5401630370"/>
+		<nd ref="381981250"/>
+		<nd ref="310104565"/>
+		<tag k="addr:city" v="Bogotá D.C."/>
+		<tag k="alt_name" v="Avenida Rodrigo Lara Bonilla"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="4"/>
+		<tag k="name" v="Avenida Calle 127"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="AC 127"/>
+		<tag k="sidewalk" v="separate"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="584488053" version="1">
+		<nd ref="474828499"/>
+		<nd ref="6070060647"/>
+		<nd ref="474831069"/>
+		<nd ref="3881271969"/>
+		<tag k="alt_name" v="Avenida Suba;Avenida Alfredo D Bateman"/>
+		<tag k="foot" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="name" v="Transversal 60"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="sidewalk" v="separate"/>
+		<tag k="surface" v="concrete"/>
+	</way>
+	<way id="584488054" version="1">
+		<nd ref="381991485"/>
+		<nd ref="724307195"/>
+		<nd ref="5401630369"/>
+		<tag k="alt_name" v="Avenida Suba;Avenida Alfredo D Bateman"/>
+		<tag k="foot" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="name" v="Transversal 60"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="sidewalk" v="separate"/>
+		<tag k="surface" v="concrete"/>
+	</way>
+	<way id="584488056" version="1">
+		<nd ref="262390974"/>
+		<nd ref="381981205"/>
+		<nd ref="4069368783"/>
+		<nd ref="381991485"/>
+		<tag k="addr:city" v="Bogotá D.C."/>
+		<tag k="alt_name" v="Avenida Rodrigo Lara Bonilla"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="name" v="Avenida Calle 127"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="AC 127"/>
+		<tag k="sidewalk" v="separate"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="584489697" version="1">
+		<nd ref="5587168400"/>
+		<tag k="natural" v="tree_row"/>
+	</way>
+	<way id="602207029" version="1">
+		<nd ref="5720901485"/>
+		<tag k="natural" v="tree_row"/>
+	</way>
+	<way id="602207030" version="1">
+		<nd ref="5720901486"/>
+		<nd ref="5720901485"/>
+		<nd ref="5720901487"/>
+		<nd ref="5720901488"/>
+		<nd ref="5720901489"/>
+		<nd ref="5720901490"/>
+		<nd ref="5720901491"/>
+		<nd ref="5720901493"/>
+		<nd ref="5720901492"/>
+		<nd ref="5720901486"/>
+		<tag k="landuse" v="grass"/>
+	</way>
+	<way id="602207033" version="1">
+		<nd ref="307756835"/>
+		<nd ref="5720901482"/>
+		<nd ref="307756838"/>
+		<nd ref="5583868530"/>
+		<nd ref="6070215324"/>
+		<nd ref="310712481"/>
+		<tag k="addr:street" v="Carrera 58"/>
+		<tag k="alt_name" v="Avenida Villas"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="name" v="Avenida Carrera 58"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="644576178" version="1">
+		<nd ref="316231973"/>
+		<nd ref="7594165428"/>
+		<nd ref="316231949"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lanes" v="2"/>
+		<tag k="name" v="Carrera 70D"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="645850011" version="1">
+		<nd ref="6069909141"/>
+		<nd ref="6069909140"/>
+		<nd ref="6069909151"/>
+		<nd ref="6069909143"/>
+		<nd ref="6234539597"/>
+		<nd ref="6069909144"/>
+		<nd ref="6069909148"/>
+		<nd ref="6069909149"/>
+		<nd ref="6069909150"/>
+		<nd ref="6069909139"/>
+		<tag k="leisure" v="park"/>
+	</way>
+	<way id="645873849" version="1">
+		<nd ref="4913735023"/>
+		<nd ref="4913735025"/>
+		<tag k="crossing" v="marked"/>
+		<tag k="footway" v="crossing"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="645873850" version="1">
+		<nd ref="4913735022"/>
+		<nd ref="255476400"/>
+		<nd ref="4913735031"/>
+		<nd ref="4913731520"/>
+		<nd ref="6587082835"/>
+		<nd ref="6587082834"/>
+		<nd ref="4913735023"/>
+		<tag k="crossing" v="marked"/>
+		<tag k="footway" v="crossing"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="645873851" version="1">
+		<nd ref="4913735025"/>
+		<nd ref="7594175420"/>
+		<nd ref="6070060663"/>
+		<nd ref="6070060662"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="645873852" version="1">
+		<nd ref="6070060664"/>
+		<nd ref="6070060679"/>
+		<nd ref="6070060665"/>
+		<nd ref="5583868413"/>
+		<nd ref="6070060666"/>
+		<nd ref="6070060667"/>
+		<nd ref="6070060668"/>
+		<nd ref="6070060669"/>
+		<nd ref="6070060670"/>
+		<nd ref="6070060671"/>
+		<nd ref="6070060672"/>
+		<nd ref="6070060673"/>
+		<nd ref="6070060674"/>
+		<nd ref="6070060675"/>
+		<nd ref="6070060676"/>
+		<nd ref="858706987"/>
+		<nd ref="6070060678"/>
+		<nd ref="6070060664"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="645873853" version="1">
+		<nd ref="6070060679"/>
+		<nd ref="6070060680"/>
+		<nd ref="6070060681"/>
+		<nd ref="6070060682"/>
+		<nd ref="6070061691"/>
+		<nd ref="6070060683"/>
+		<nd ref="6070060684"/>
+		<nd ref="6070061685"/>
+		<nd ref="6070061686"/>
+		<nd ref="6070061687"/>
+		<nd ref="6070061690"/>
+		<nd ref="6070061688"/>
+		<nd ref="6070061689"/>
+		<nd ref="7594175435"/>
+		<nd ref="6070060657"/>
+		<tag k="highway" v="service"/>
+	</way>
+	<way id="645897358" version="1">
+		<nd ref="5583868416"/>
+		<nd ref="6070215326"/>
+		<nd ref="474831075"/>
+		<nd ref="6070060659"/>
+		<nd ref="3864369170"/>
+		<nd ref="474831076"/>
+		<nd ref="3864369169"/>
+		<nd ref="474831077"/>
+		<nd ref="6070060658"/>
+		<nd ref="6070060657"/>
+		<tag k="highway" v="primary_link"/>
+		<tag k="lanes" v="1"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="665961837" version="1">
+		<nd ref="6974175694"/>
+		<nd ref="6974175693"/>
+		<nd ref="6974175692"/>
+		<nd ref="6974175691"/>
+		<nd ref="6234539598"/>
+		<nd ref="6234539599"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="foot" v="yes"/>
+		<tag k="highway" v="footway"/>
+		<tag k="horse" v="no"/>
+		<tag k="motor_vehicle" v="no"/>
+		<tag k="name" v="Calle 127C"/>
+		<tag k="surface" v="grass"/>
+		<tag k="width" v="1"/>
+	</way>
+	<way id="665961838" version="1">
+		<nd ref="6234539599"/>
+		<nd ref="6974175690"/>
+		<nd ref="6974157560"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="foot" v="yes"/>
+		<tag k="highway" v="footway"/>
+		<tag k="horse" v="no"/>
+		<tag k="motor_vehicle" v="no"/>
+		<tag k="name" v="Calle 127C"/>
+		<tag k="width" v="1"/>
+	</way>
+	<way id="693989691" version="1">
+		<nd ref="492866942"/>
+		<nd ref="492866940"/>
+		<nd ref="6515711602"/>
+		<nd ref="6515711603"/>
+		<nd ref="492866942"/>
+		<tag k="landuse" v="residential"/>
+		<tag k="name" v="Ocales de Niza"/>
+	</way>
+	<way id="695875203" version="1">
+		<nd ref="6534413379"/>
+		<nd ref="6534413380"/>
+		<nd ref="6534413381"/>
+		<nd ref="6534413382"/>
+		<nd ref="6534413383"/>
+		<nd ref="6534413384"/>
+		<nd ref="6534413385"/>
+		<nd ref="6534413386"/>
+		<nd ref="6534413387"/>
+		<nd ref="6534413388"/>
+		<nd ref="6534413396"/>
+		<nd ref="6534413397"/>
+		<nd ref="6534413379"/>
+		<tag k="landuse" v="residential"/>
+	</way>
+	<way id="744994120" version="1">
+		<nd ref="6974157560"/>
+		<nd ref="6974157559"/>
+		<nd ref="6974157558"/>
+		<nd ref="6974157557"/>
+		<nd ref="6974157556"/>
+		<tag k="access" v="no"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="foot" v="yes"/>
+		<tag k="highway" v="footway"/>
+		<tag k="horse" v="no"/>
+		<tag k="motor_vehicle" v="no"/>
+		<tag k="width" v="1"/>
+	</way>
+	<way id="744999391" version="1">
+		<nd ref="6974175693"/>
+		<nd ref="6974189820"/>
+		<nd ref="6974189819"/>
+		<nd ref="6974189818"/>
+		<nd ref="316373817"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="798120520" version="1">
+		<nd ref="7464679447"/>
+		<nd ref="4069368780"/>
+		<tag k="covered" v="yes"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="798120521" version="1">
+		<nd ref="7464679448"/>
+		<nd ref="7464679447"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="798120522" version="1">
+		<nd ref="4069368782"/>
+		<nd ref="7464679448"/>
+		<tag k="covered" v="yes"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="812894779" version="1">
+		<nd ref="7592884291"/>
+		<nd ref="311437895"/>
+		<tag k="highway" v="residential"/>
+	</way>
+	<way id="813014304" version="1">
+		<nd ref="7593966852"/>
+		<nd ref="7594175413"/>
+		<nd ref="7593966853"/>
+		<nd ref="7593966854"/>
+		<nd ref="7593966855"/>
+		<nd ref="7593966856"/>
+		<nd ref="7593966857"/>
+		<tag k="footway" v="sidewalk"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="813034057" version="1">
+		<nd ref="4913735021"/>
+		<nd ref="7593966857"/>
+		<tag k="crossing" v="marked"/>
+		<tag k="footway" v="crossing"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="813034060" version="1">
+		<nd ref="6070060630"/>
+		<nd ref="7594175415"/>
+		<nd ref="7594175414"/>
+		<nd ref="7594175416"/>
+		<nd ref="7594175417"/>
+		<nd ref="7594175418"/>
+		<nd ref="7594175419"/>
+		<nd ref="7594175420"/>
+		<nd ref="7594175421"/>
+		<nd ref="7594175422"/>
+		<nd ref="7594175423"/>
+		<nd ref="7594175424"/>
+		<nd ref="7594175425"/>
+		<nd ref="7594175426"/>
+		<nd ref="7631297529"/>
+		<nd ref="7594175427"/>
+		<nd ref="7594175428"/>
+		<nd ref="7594175429"/>
+		<tag k="footway" v="sidewalk"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="813034061" version="1">
+		<nd ref="5101582902"/>
+		<nd ref="7594175430"/>
+		<tag k="crossing" v="marked"/>
+		<tag k="footway" v="crossing"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="813034062" version="1">
+		<nd ref="726333519"/>
+		<nd ref="7594175431"/>
+		<nd ref="7594175432"/>
+		<nd ref="7594175433"/>
+		<nd ref="7594175434"/>
+		<nd ref="7594175435"/>
+		<tag k="footway" v="sidewalk"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="813034063" version="1">
+		<nd ref="7594175435"/>
+		<nd ref="7594175436"/>
+		<nd ref="7594175437"/>
+		<nd ref="7594175438"/>
+		<tag k="footway" v="sidewalk"/>
+		<tag k="highway" v="footway"/>
+		<tag k="surface" v="paving_stones"/>
+	</way>
+	<way id="813034064" version="1">
+		<nd ref="7594175440"/>
+		<nd ref="7594175441"/>
+		<nd ref="7594175442"/>
+		<nd ref="7594175443"/>
+		<nd ref="7594175444"/>
+		<nd ref="7594175445"/>
+		<nd ref="7594175446"/>
+		<nd ref="7594175430"/>
+		<nd ref="7594175447"/>
+		<nd ref="7594175448"/>
+		<nd ref="7594175449"/>
+		<tag k="footway" v="sidewalk"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="813034506" version="1">
+		<nd ref="7593966857"/>
+		<nd ref="7594165423"/>
+		<nd ref="7594165424"/>
+		<nd ref="7594165425"/>
+		<nd ref="7594165426"/>
+		<nd ref="7594165427"/>
+		<nd ref="7594165428"/>
+		<tag k="footway" v="sidewalk"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="813035779" version="1">
+		<nd ref="7594175449"/>
+		<nd ref="7594200227"/>
+		<nd ref="7594200228"/>
+		<nd ref="7594200229"/>
+		<tag k="footway" v="sidewalk"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="817104692" version="1">
+		<nd ref="7594165428"/>
+		<tag k="footway" v="sidewalk"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="817106316" version="1">
+		<nd ref="7594175438"/>
+		<nd ref="7631297515"/>
+		<nd ref="7631297516"/>
+		<nd ref="7631297517"/>
+		<nd ref="7631297518"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="817106318" version="1">
+		<nd ref="7631297529"/>
+		<nd ref="7631297533"/>
+		<nd ref="7631297530"/>
+		<nd ref="7631297532"/>
+		<nd ref="7631297531"/>
+		<tag k="crossing" v="marked"/>
+		<tag k="footway" v="crossing"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="817106319" version="1">
+		<nd ref="7631297531"/>
+		<nd ref="7631297534"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="817106320" version="1">
+		<nd ref="7631297534"/>
+		<nd ref="7631297536"/>
+		<nd ref="7631297535"/>
+		<tag k="crossing" v="unmarked"/>
+		<tag k="footway" v="crossing"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="817106321" version="1">
+		<nd ref="7631297535"/>
+		<nd ref="7631297537"/>
+		<nd ref="7631297538"/>
+		<nd ref="7631297539"/>
+		<nd ref="7631297540"/>
+		<nd ref="7631297541"/>
+		<nd ref="7631297542"/>
+		<nd ref="7631297543"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="841552539" version="1">
+		<nd ref="7851756673"/>
+		<nd ref="7851768808"/>
+		<nd ref="7851756671"/>
+		<nd ref="7851756672"/>
+		<nd ref="7851756670"/>
+		<nd ref="7851768807"/>
+		<nd ref="7851768806"/>
+		<nd ref="7851768805"/>
+		<nd ref="7851756669"/>
+		<tag k="boundary" v="postal_code"/>
+		<tag k="name" v="111111-111121"/>
+	</way>
+	<way id="907202142" version="1">
+		<nd ref="476032166"/>
+		<nd ref="307758742"/>
+		<nd ref="5150090959"/>
+		<nd ref="307758746"/>
+		<nd ref="5150090958"/>
+		<nd ref="307758751"/>
+		<nd ref="5150090957"/>
+		<nd ref="5720901481"/>
+		<nd ref="307758753"/>
+		<nd ref="316373715"/>
+		<tag k="addr:street" v="Carrera 58"/>
+		<tag k="alt_name" v="Avenida Villas"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="name" v="Avenida Carrera 58"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="908289015" version="1">
+		<nd ref="474831068"/>
+		<nd ref="308905160"/>
+		<tag k="alt_name" v="Avenida Suba;Avenida Alfredo D Bateman"/>
+		<tag k="foot" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="maxspeed" v="60"/>
+		<tag k="name" v="Transversal 60"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="sidewalk" v="separate"/>
+		<tag k="surface" v="concrete"/>
+	</way>
+	<way id="908289016" version="1">
+		<nd ref="262390974"/>
+		<nd ref="6587082834"/>
+		<nd ref="6070060645"/>
+		<nd ref="474831068"/>
+		<tag k="alt_name" v="Avenida Suba;Avenida Alfredo D Bateman"/>
+		<tag k="foot" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="maxspeed" v="60"/>
+		<tag k="name" v="Transversal 60"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="sidewalk" v="separate"/>
+		<tag k="surface" v="concrete"/>
+	</way>
+	<way id="908289017" version="1">
+		<nd ref="5401630369"/>
+		<nd ref="5583868408"/>
+		<nd ref="474828499"/>
+		<tag k="alt_name" v="Avenida Suba;Avenida Alfredo D Bateman"/>
+		<tag k="foot" v="yes"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="name" v="Transversal 60"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="sidewalk" v="separate"/>
+		<tag k="surface" v="concrete"/>
+	</way>
+	<way id="908289018" version="1">
+		<nd ref="381991485"/>
+		<nd ref="5583868404"/>
+		<nd ref="6070060652"/>
+		<tag k="addr:city" v="Bogotá D.C."/>
+		<tag k="alt_name" v="Avenida Rodrigo Lara Bonilla"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="name" v="Avenida Calle 127"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="AC 127"/>
+		<tag k="sidewalk" v="separate"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="908289019" version="1">
+		<nd ref="858815777"/>
+		<nd ref="3864369062"/>
+		<nd ref="268262470"/>
+		<nd ref="5583868416"/>
+		<tag k="addr:city" v="Bogotá D.C."/>
+		<tag k="alt_name" v="Avenida Rodrigo Lara Bonilla"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="name" v="Avenida Calle 127"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="AC 127"/>
+		<tag k="sidewalk" v="separate"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="908289020" version="1">
+		<nd ref="310712481"/>
+		<nd ref="858815777"/>
+		<tag k="addr:city" v="Bogotá D.C."/>
+		<tag k="alt_name" v="Avenida Rodrigo Lara Bonilla"/>
+		<tag k="highway" v="primary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="name" v="Avenida Calle 127"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="short_name" v="AC 127"/>
+		<tag k="sidewalk" v="separate"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<relation id="1142027" version="1">
+		<member type="way" ref="584488049" role=""/>
+		<member type="way" ref="189234801" role=""/>
+		<tag k="colour" v="yellow"/>
+		<tag k="name" v="Suba"/>
+		<tag k="operator" v="TransMilenio"/>
+		<tag k="ref" v="C"/>
+		<tag k="route" v="bus"/>
+		<tag k="type" v="route"/>
+	</relation>
+	<relation id="2696349" version="1">
+		<member type="way" ref="90000869" role=""/>
+		<member type="way" ref="907202142" role=""/>
+		<member type="way" ref="90032499" role=""/>
+		<tag k="name" v="Germania-Villa Cindy"/>
+		<tag k="network" v="SITP-Urbano"/>
+		<tag k="operator" v="Egobus"/>
+		<tag k="public_transport:version" v="2"/>
+		<tag k="ref" v="314 V. Cindy"/>
+		<tag k="route" v="bus"/>
+		<tag k="source" v="Kaart Ground Survey 2017"/>
+		<tag k="type" v="route"/>
+	</relation>
+	<relation id="4742854" version="1">
+		<member type="way" ref="90000869" role=""/>
+		<tag k="name" v="Colina-Parque Central Bavaria"/>
+		<tag k="network" v="SITP-Urbano"/>
+		<tag k="operator" v="Masivo Capital SAS"/>
+		<tag k="public_transport:version" v="2"/>
+		<tag k="ref" v="107B"/>
+		<tag k="route" v="bus"/>
+		<tag k="type" v="route"/>
+	</relation>
+	<relation id="5593558" version="1">
+		<member type="way" ref="584488053" role="from"/>
+		<tag k="restriction" v="no_left_turn"/>
+		<tag k="type" v="restriction"/>
+	</relation>
+	<relation id="8252977" version="1">
+		<member type="way" ref="602207033" role="from"/>
+		<member type="node" ref="310712481" role="via"/>
+		<member type="way" ref="908289020" role="to"/>
+		<tag k="restriction" v="no_right_turn"/>
+		<tag k="type" v="restriction"/>
+	</relation>
+	<relation id="8257045" version="1">
+		<member type="way" ref="90000582" role="from"/>
+		<member type="node" ref="310104565" role="via"/>
+		<member type="way" ref="90000410" role="to"/>
+		<tag k="restriction" v="no_right_turn"/>
+		<tag k="type" v="restriction"/>
+	</relation>
+	<relation id="8257046" version="1">
+		<member type="way" ref="584488047" role="from"/>
+		<member type="node" ref="262390974" role="via"/>
+		<member type="way" ref="584488056" role="to"/>
+		<tag k="restriction" v="no_left_turn"/>
+		<tag k="type" v="restriction"/>
+	</relation>
+	<relation id="8257048" version="1">
+		<member type="way" ref="90000910" role="from"/>
+		<member type="node" ref="5401630369" role="via"/>
+		<member type="way" ref="908289017" role="to"/>
+		<tag k="restriction" v="no_right_turn"/>
+		<tag k="type" v="restriction"/>
+	</relation>
+	<relation id="9748955" version="1">
+		<member type="way" ref="90032451" role="from"/>
+		<member type="node" ref="262390974" role="via"/>
+		<member type="way" ref="908289016" role="to"/>
+		<tag k="restriction" v="no_right_turn"/>
+		<tag k="type" v="restriction"/>
+	</relation>
+	<relation id="9748956" version="1">
+		<member type="way" ref="90000403" role="from"/>
+		<member type="node" ref="381991485" role="via"/>
+		<member type="way" ref="908289018" role="to"/>
+		<tag k="restriction" v="no_right_turn"/>
+		<tag k="type" v="restriction"/>
+	</relation>
+	<relation id="11518309" version="1">
+		<member type="relation" ref="11553121" role="outer"/>
+		<tag k="boundary" v="postal_code"/>
+		<tag k="name" v="Códigos Postales de Bogotá"/>
+		<tag k="type" v="boundary"/>
+	</relation>
+	<relation id="11553120" version="1">
+		<member type="way" ref="841552539" role="outer"/>
+		<tag k="boundary" v="postal_code"/>
+		<tag k="name" v="111111"/>
+		<tag k="postal_code" v="111111"/>
+		<tag k="type" v="boundary"/>
+	</relation>
+	<relation id="11553121" version="1">
+		<member type="relation" ref="11553120" role="outer"/>
+		<member type="relation" ref="11553165" role="outer"/>
+		<tag k="boundary" v="postal_code"/>
+		<tag k="name" v="Códigos Postales Localidad Suba"/>
+		<tag k="type" v="boundary"/>
+	</relation>
+	<relation id="11553165" version="1">
+		<member type="way" ref="841552539" role="outer"/>
+		<tag k="boundary" v="postal_code"/>
+		<tag k="name" v="111121"/>
+		<tag k="postal_code" v="111121"/>
+		<tag k="type" v="boundary"/>
+	</relation>
+	<relation id="12317233" version="1">
+		<member type="way" ref="90000869" role="from"/>
+		<member type="way" ref="907202142" role="to"/>
+		<member type="node" ref="268262467" role="sign"/>
+		<tag k="colour:arrow" v="white"/>
+		<tag k="colour:back" v="green"/>
+		<tag k="colour:text" v="white"/>
+		<tag k="destination:street" v="Calle 129;Avenida Iberia"/>
+		<tag k="mapillary" v="RUmxMhLvm1ggo1sSQ_7TdA"/>
+		<tag k="source:destination" v="mapillary"/>
+		<tag k="type" v="destination_sign"/>
+	</relation>
+	<relation id="12332497" version="1">
+		<member type="way" ref="908289019" role="from"/>
+		<member type="node" ref="858815777" role="sign"/>
+		<member type="way" ref="908289015" role="to"/>
+		<tag k="colour:arrow" v="white"/>
+		<tag k="colour:back" v="green"/>
+		<tag k="colour:text" v="white"/>
+		<tag k="destination" v="Suba"/>
+		<tag k="mapillary" v="GlGyyJ9mED9QGRzF7HVaLA"/>
+		<tag k="source:destination" v="mapillary"/>
+		<tag k="type" v="destination_sign"/>
+	</relation>
+	<relation id="12332498" version="1">
+		<member type="way" ref="908289019" role="from"/>
+		<member type="node" ref="858815777" role="sign"/>
+		<member type="way" ref="908289018" role="to"/>
+		<tag k="colour:arrow" v="white"/>
+		<tag k="colour:back" v="green"/>
+		<tag k="colour:text" v="white"/>
+		<tag k="destination:street" v="Avenida Boyaca"/>
+		<tag k="mapillary" v="GlGyyJ9mED9QGRzF7HVaLA"/>
+		<tag k="source:destination" v="mapillary"/>
+		<tag k="type" v="destination_sign"/>
+	</relation>
+	<relation id="12332499" version="1">
+		<member type="way" ref="908289019" role="from"/>
+		<member type="node" ref="858815777" role="sign"/>
+		<member type="way" ref="908289018" role="to"/>
+		<tag k="colour:arrow" v="black"/>
+		<tag k="colour:back" v="yellow"/>
+		<tag k="colour:text" v="black"/>
+		<tag k="destination" v="Aeropuerto"/>
+		<tag k="mapillary" v="GlGyyJ9mED9QGRzF7HVaLA"/>
+		<tag k="source:destination" v="mapillary"/>
+		<tag k="type" v="destination_sign"/>
+	</relation>
+	<relation id="12332500" version="1">
+		<member type="way" ref="908289019" role="from"/>
+		<member type="node" ref="858815777" role="sign"/>
+		<member type="way" ref="908289018" role="to"/>
+		<tag k="colour:arrow" v="white"/>
+		<tag k="colour:back" v="green"/>
+		<tag k="colour:text" v="white"/>
+		<tag k="destination" v="Quirigua"/>
+		<tag k="destination:street" v="Calle 80"/>
+		<tag k="mapillary" v="GlGyyJ9mED9QGRzF7HVaLA"/>
+		<tag k="source:destination" v="mapillary"/>
+		<tag k="type" v="destination_sign"/>
+	</relation>
+	<relation id="12332501" version="1">
+		<member type="way" ref="908289019" role="from"/>
+		<member type="node" ref="858815777" role="sign"/>
+		<member type="way" ref="908289017" role="to"/>
+		<tag k="colour:arrow" v="black"/>
+		<tag k="colour:back" v="white"/>
+		<tag k="colour:text" v="black"/>
+		<tag k="destination" v="Clínica Shaio"/>
+		<tag k="mapillary" v="GlGyyJ9mED9QGRzF7HVaLA"/>
+		<tag k="source:destination" v="mapillary"/>
+		<tag k="type" v="destination_sign"/>
+	</relation>
+	<relation id="12332502" version="1">
+		<member type="way" ref="908289019" role="from"/>
+		<member type="way" ref="908289017" role="to"/>
+		<member type="node" ref="858815777" role="sign"/>
+		<tag k="colour:arrow" v="white"/>
+		<tag k="colour:back" v="green"/>
+		<tag k="colour:text" v="white"/>
+		<tag k="destination" v="La Castellana"/>
+		<tag k="mapillary" v="GlGyyJ9mED9QGRzF7HVaLA"/>
+		<tag k="source:destination" v="mapillary"/>
+		<tag k="type" v="destination_sign"/>
+	</relation>
+	<relation id="12332503" version="1">
+		<member type="way" ref="908289019" role="from"/>
+		<member type="way" ref="908289018" role="to"/>
+		<member type="node" ref="858815777" role="sign"/>
+		<tag k="colour:arrow" v="white"/>
+		<tag k="colour:back" v="green"/>
+		<tag k="colour:text" v="white"/>
+		<tag k="destination" v="Modelia"/>
+		<tag k="mapillary" v="GlGyyJ9mED9QGRzF7HVaLA"/>
+		<tag k="source:destination" v="mapillary"/>
+		<tag k="type" v="destination_sign"/>
+	</relation>
+	<relation id="12875067" version="1">
+		<member type="way" ref="584488052" role="from"/>
+		<member type="way" ref="584488047" role="to"/>
+		<member type="node" ref="310104565" role="via"/>
+		<tag k="restriction" v="no_left_turn"/>
+		<tag k="type" v="restriction"/>
+	</relation>
+	<relation id="12893637" version="1">
+		<member type="relation" ref="11518309" role="outer"/>
+		<tag k="name" v="Bogota boundaries"/>
+		<tag k="type" v="boundary"/>
+	</relation>
+</osm>

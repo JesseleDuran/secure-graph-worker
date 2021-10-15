@@ -9,5 +9,5 @@ import (
 func main() {
 	g, err := parser.FromOSMFileV2("downloads/Bogota.osm")
 	log.Println(len(g.Nodes), err)
-	json.Write("osm-graph-v2-bogota.json", g.Nodes)
+	json.Write("bogota-v1.5-rc.json", g)
 }

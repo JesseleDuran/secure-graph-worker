@@ -2,6 +2,7 @@ package parser
 
 import (
 	"context"
+	"log"
 	"os"
 	"osm-graph-parser/edge"
 	"osm-graph-parser/graph"
@@ -90,7 +91,16 @@ func FromOSMFile(path string) (graph.Graph, error) {
 	return g, nil
 }
 
+var RepeatedFrom map[int64]bool
+var j int
+
 func FromOSMFileV2(path string) (graph.GraphV2, error) {
+	RepeatedFrom = make(map[int64]bool, 0)
+	type restricAux struct {
+		from    int64
+		typeVia osm.Type
+	}
+	resAux := make([]restricAux, 0)
 	f, err := os.Open(path)
 	if err != nil {
 		return graph.GraphV2{}, err
@@ -106,17 +116,11 @@ func FromOSMFileV2(path string) (graph.GraphV2, error) {
 			n := *o.(*osm.Node)
 			resources.Nodes[n.ID.FeatureID().Ref()] = n
 
-		//case "relation":
-		//  r := *o.(*osm.Relation)
-		//  auxTags := tag.FromOSMTags(r.Tags)
-		//  if _, ok := auxTags["building"]; !ok {
-		//    resources.Relations[r.ID.FeatureID().Ref()] = r
-		//  }
-
 		case "way":
 			w := *o.(*osm.Way)
 			auxTags := tag.FromOSMTags(w.Tags)
 			v, ok := auxTags["highway"]
+			v1, _ := auxTags["access"]
 			//v1, ok1 := auxTags["motor_vehicle"];
 			//v2, ok2 := auxTags["motorcar"];
 			if ok && (v == "motorway" ||
@@ -132,20 +136,41 @@ func FromOSMFileV2(path string) (graph.GraphV2, error) {
 				v == "residential" ||
 				v == "service" ||
 				v == "unclassified" ||
-				v == "living_street") {
+				v == "living_street") && (v1 != "no") {
 				resources.Ways[w.ID.FeatureID().Ref()] = w
+			}
+
+		case "relation":
+			r := *o.(*osm.Relation)
+			auxTags := tag.FromOSMTags(r.Tags)
+			v, ok := auxTags["type"]
+			if ok && v == "restriction" {
+				aux := restricAux{}
+				for _, m := range r.Members {
+					switch m.Role {
+					case "from":
+						aux.from = m.Ref
+					case "via":
+						aux.typeVia = m.Type
+					}
+
+				}
+				resAux = append(resAux, aux)
+				resources.Relations[r.ID.FeatureID().Ref()] = r
 			}
 
 		default:
 			continue
 		}
 	}
+
 	err = scanner.Err()
 	if err != nil {
 		return graph.GraphV2{}, err
 	}
+	log.Println("same from:", j, "total", len(resources.Relations))
 
-	g := graph.GraphV2{Nodes: make(map[uint64]graph.Node)}
+	g := graph.GraphV2{Nodes: make(map[int64]graph.Node)}
 
 	//for _, v := range resources.Relations {
 	//  g.Edges = append(g.Edges, edge.FromOSMRelation(v, edge.Edges{}))
@@ -160,10 +185,6 @@ func FromOSMFileV2(path string) (graph.GraphV2, error) {
 	for _, v := range resources.Ways {
 		g.RelateNodesFromWay(v)
 	}
-
-	resources.Ways = nil
-	resources.Relations = nil
-	resources.Nodes = nil
 
 	return g, nil
 }
