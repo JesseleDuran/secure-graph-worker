@@ -1,4 +1,4 @@
-module osm-graph-parser
+module github.com/JesseleDuran/osm-graph-parser
 
 go 1.13
 

@@ -2,11 +2,11 @@ package graph
 
 import (
 	"context"
+	"github.com/JesseleDuran/osm-graph-parser/tag"
 	"github.com/paulmach/osm"
 	"github.com/paulmach/osm/osmxml"
 	"log"
 	"os"
-	"osm-graph-parser/tag"
 )
 
 var ways = make(map[int64]osm.Way)

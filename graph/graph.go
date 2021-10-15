@@ -1,17 +1,17 @@
 package graph
 
 import (
+	"github.com/JesseleDuran/osm-graph-parser/coordinates"
+	"github.com/JesseleDuran/osm-graph-parser/edge"
+	"github.com/JesseleDuran/osm-graph-parser/file/json"
+	"github.com/JesseleDuran/osm-graph-parser/parser/resources"
+	"github.com/JesseleDuran/osm-graph-parser/tag"
 	"github.com/golang/geo/s2"
 	geojson "github.com/paulmach/go.geojson"
 	"github.com/paulmach/osm"
 	"github.com/umahmood/haversine"
 	"math"
 	"math/rand"
-	"osm-graph-parser/coordinates"
-	"osm-graph-parser/edge"
-	"osm-graph-parser/file/json"
-	"osm-graph-parser/parser/resources"
-	"osm-graph-parser/tag"
 	"reflect"
 )
 

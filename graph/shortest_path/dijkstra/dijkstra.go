@@ -1,11 +1,11 @@
 package dijkstra
 
 import (
+	"github.com/JesseleDuran/osm-graph-parser/coordinates"
+	"github.com/JesseleDuran/osm-graph-parser/graph"
+	"github.com/JesseleDuran/osm-graph-parser/graph/shortest_path"
+	"github.com/JesseleDuran/osm-graph-parser/graph/shortest_path/dijkstra/heap"
 	"math"
-	"osm-graph-parser/coordinates"
-	"osm-graph-parser/graph"
-	"osm-graph-parser/graph/shortest_path"
-	"osm-graph-parser/graph/shortest_path/dijkstra/heap"
 )
 
 type DijkstraV2 struct {

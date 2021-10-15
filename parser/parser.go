@@ -2,12 +2,12 @@ package parser
 
 import (
 	"context"
+	"github.com/JesseleDuran/osm-graph-parser/edge"
+	"github.com/JesseleDuran/osm-graph-parser/graph"
+	"github.com/JesseleDuran/osm-graph-parser/parser/resources"
+	"github.com/JesseleDuran/osm-graph-parser/tag"
 	"log"
 	"os"
-	"osm-graph-parser/edge"
-	"osm-graph-parser/graph"
-	"osm-graph-parser/parser/resources"
-	"osm-graph-parser/tag"
 
 	"github.com/paulmach/osm"
 	"github.com/paulmach/osm/osmxml"

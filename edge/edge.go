@@ -1,11 +1,11 @@
 package edge
 
 import (
+	"github.com/JesseleDuran/osm-graph-parser/parser/resources"
+	"github.com/JesseleDuran/osm-graph-parser/tag"
 	"github.com/golang/geo/s2"
 	"github.com/paulmach/osm"
 	"log"
-	"osm-graph-parser/parser/resources"
-	"osm-graph-parser/tag"
 	"strconv"
 )
 
