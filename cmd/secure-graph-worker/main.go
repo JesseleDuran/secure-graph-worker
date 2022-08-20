@@ -1,6 +1,7 @@
 package main
 
 import (
+	graph "github.com/JesseleDuran/gograph"
 	osm "github.com/JesseleDuran/gograph/osm/pbf"
 	"github.com/JesseleDuran/secure-graph-worker/config"
 	"github.com/JesseleDuran/secure-graph-worker/inmem"
@@ -36,63 +37,70 @@ func main() {
 	<-quit
 
 }
-func start(mapsProvider s3.MapsFileProvider, crimeProvider s3.CrimeFileProvider, graph inmem.GraphCreator) {
+func start(mapsProvider s3.MapsFileProvider, crimeProvider s3.CrimeFileProvider, graphCreator inmem.GraphCreator) {
 	log.Print("Downloading files from S3.")
 	osmPbfFile, _ := mapsProvider.Fetch()
 	crimesFiles, _ := crimeProvider.Fetch()
 	crimes := make([]crime.Crime, 0)
 	points := make([]s2.Point, 0)
+	crimePoints := make([]graph.Point, 0)
 
 	for _, p := range crimesFiles {
 		crimes = append(crimes, crime.FromCSVFile(p)...)
 	}
 	for _, c := range crimes {
-		log.Println(c.Lat, c.Lng)
 		points = append(points, s2.PointFromLatLng(s2.LatLngFromDegrees(c.Lat, c.Lng)))
+		crimePoints = append(crimePoints, graph.Point{
+			ID: c.ID,
+			Point: graph.Coordinate{
+				Lat: c.Lat,
+				Lng: c.Lng,
+			},
+		})
 	}
 	coverage := s2.LoopFromPoints(points)
 	tree := crime.IndexCrimes(crimes)
 
 	log.Print("Generating driving distance graph.")
-	err := graph.Create(osm.Filter{
+	err := graphCreator.Create(osm.Filter{
 		Path:      osmPbfFile,
 		Mode:      osm.Driving,
 		Coverage:  *coverage,
 		SetWeight: nil,
-	}, "distance")
+	}, "distance", crimePoints)
 	if err != nil {
 		log.Println("err Generating driving distance graph.", err.Error())
 	}
 
 	log.Print("Generating driving crimes graph.")
-	err = graph.Create(osm.Filter{
+	err = graphCreator.Create(osm.Filter{
 		Path:      osmPbfFile,
 		Mode:      osm.Driving,
 		Coverage:  *coverage,
 		SetWeight: tree.SetWeight,
-	}, "crimes")
+	}, "crimes", crimePoints)
 	if err != nil {
 		log.Println("err Generating driving crimes graph.", err.Error())
 	}
 
 	log.Print("Generating Cycling distance graph.")
-	err = graph.Create(osm.Filter{
+	err = graphCreator.Create(osm.Filter{
 		Path:      osmPbfFile,
 		Mode:      osm.Cycling,
 		Coverage:  *coverage,
 		SetWeight: nil,
-	}, "distance")
+	}, "distance", crimePoints)
 	if err != nil {
 		log.Println("err Generating Cycling distance graph.", err.Error())
 	}
 
 	log.Print("Generating Cycling crimes graph.")
-	err = graph.Create(osm.Filter{
+	err = graphCreator.Create(osm.Filter{
 		Path:      osmPbfFile,
 		Mode:      osm.Cycling,
 		Coverage:  *coverage,
 		SetWeight: tree.SetWeight,
-	}, "crimes")
+	}, "crimes", crimePoints)
 	if err != nil {
 		log.Println("err Generating Cycling crimes graph.", err.Error())
 	}

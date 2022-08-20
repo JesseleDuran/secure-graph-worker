@@ -2,6 +2,7 @@ package inmem
 
 import (
 	"fmt"
+	graph "github.com/JesseleDuran/gograph"
 	osm "github.com/JesseleDuran/gograph/osm/pbf"
 	worker "github.com/JesseleDuran/secure-graph-worker"
 	"github.com/JesseleDuran/secure-graph-worker/config"
@@ -12,9 +13,10 @@ type GraphCreator struct {
 	S3Manager worker.FileManager
 }
 
-func (c GraphCreator) Create(filter osm.Filter, content string) error {
+func (c GraphCreator) Create(filter osm.Filter, content string, points []graph.Point) error {
 	graph := osm.MakeGraphFromFile(filter)
 	graphName := fmt.Sprintf("%s-%s-%s.gob", content, filter.Mode.ToString(), config.Config.Country)
+	graph.AddData(points)
 	errGraph := graph.Serialize(graphName)
 	if errGraph != nil {
 		return fmt.Errorf("[Create][serialize][err: %w]", errGraph)

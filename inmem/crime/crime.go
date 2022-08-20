@@ -3,6 +3,7 @@ package crime
 import (
 	"encoding/csv"
 	"fmt"
+	"github.com/golang/geo/s2"
 	"io"
 	"log"
 	"math"
@@ -16,7 +17,7 @@ import (
 
 type Crime struct {
 	Date     time.Time
-	ID       int
+	ID       uint64
 	Lat, Lng float64
 }
 
@@ -68,7 +69,7 @@ func fromCsvValues(record []string) (Crime, error) {
 		}
 		return Crime{
 			Date: t,
-			ID:   0,
+			ID:   uint64(t.Unix()) + uint64(s2.CellFromLatLng(s2.LatLngFromDegrees(lat, lng)).ID()),
 			Lat:  lat,
 			Lng:  lng,
 		}, nil

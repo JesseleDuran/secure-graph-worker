@@ -3,7 +3,7 @@ module github.com/JesseleDuran/secure-graph-worker
 go 1.18
 
 require (
-	github.com/JesseleDuran/gograph v1.0.1
+	github.com/JesseleDuran/gograph v1.0.3
 	github.com/minio/minio-go/v6 v6.0.57
 	github.com/robfig/cron v1.2.0
 	github.com/stretchr/testify v1.8.0
